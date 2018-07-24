@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>RustFest.EU</title>
+  <meta name="author" content="asquera Event UG">
+  <meta name="description" content="A Community Rust conference for the Rusty folks all around Europe. Mark your calendars, September 30th!">
+  <meta name="keywords" content="rust, conf, rustfest, rustfesteu, conference, programming language, zurich">
+
+  <!-- Social: Twitter -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:site" content="@rustfest">
+  <meta name="twitter:title" content="Ashley Williams - RustBridge Workshop | RustFest Zürich">
+  <meta name="twitter:description" content="Ashley is presenting a RustBridge workshop that is going to be grrrreat!">
+  <meta name="twitter:image:src" content="http://www.rustfest.eu/assets/zurich/social/ashley.png" />
+  <meta name="twitter:creator" content="@ag_dubs" />
+
+
+
+  <link href="https://fonts.googleapis.com/css?family=Khand:300,400,500,600,700&amp;subset=latin-ext" rel="stylesheet">
+  <style>
+    body {
+        background: blue;
+    }
+    .card {
+        background: white;
+        width: 600px;
+        height: 314px;
+
+        margin: 40px auto;
+        box-sizing: border-box;
+        padding: 30px 10px;
+    }
+
+    .frame,
+    .svg {
+        width: 100%; height: 100%;
+        transform: rotate(15deg)
+    }
+    [data-frame=""] .frame {
+      display: none;
+    }
+
+    .card {
+        position: relative;
+    }
+
+
+    :root {
+      --imgbox-size: 200px;
+      --imgbox-dual: 140px;
+      --imgbox-dual-ofs: 40px;
+      --imgbox-ctr-x: calc( 15px + var(--imgbox-size) / 2 );
+      --imgbox-ctr-y: calc( 40px + var(--imgbox-size) / 2 );
+    }
+
+    /* single box */
+    .imgbox {
+      position: absolute;
+
+      left: calc( var(--imgbox-ctr-x) - var(--imgbox-size) / 2 );
+      top:  calc( var(--imgbox-ctr-y) - var(--imgbox-size) / 2 );
+
+      width: var(--imgbox-size);
+      height: var(--imgbox-size);
+    }
+
+    /* dual boxes */
+    .imgbox:first-of-type:nth-last-of-type(2) {
+      left: calc( var(--imgbox-ctr-x) - var(--imgbox-dual) / 2 - var(--imgbox-dual-ofs) );
+      top:  calc( var(--imgbox-ctr-y) - var(--imgbox-dual) / 2 - var(--imgbox-dual-ofs) );
+
+      width: var(--imgbox-dual);
+      height: var(--imgbox-dual);
+    }
+    .imgbox:last-of-type:nth-of-type(2) {
+      left: calc( var(--imgbox-ctr-x) - var(--imgbox-dual) / 2 + var(--imgbox-dual-ofs) );
+      top:  calc( var(--imgbox-ctr-y) - var(--imgbox-dual) / 2 + var(--imgbox-dual-ofs) );
+
+      width: var(--imgbox-dual);
+      height: var(--imgbox-dual);
+    }
+
+    .img_speaker {
+      width: 100%;
+    }
+    .img_speaker:not(:last-of-type) {
+      width: 60%;
+      margin: 20%;
+      border-radius: 50%;
+    }
+    .card .img_speaker, .card .svg, .card .frame {
+        position: absolute;
+    }
+
+    .infobox {
+        margin-left: 200px;
+        padding: 25px;
+    }
+    .infobox span {
+        font-family: Khand;
+        display: block;
+    }
+    .infobox .speaker {
+        font-size: 30px;
+        font-weight: 500;
+    }
+    .infobox .twitter {
+        font-size: 18px;
+        color: #247EFF;
+    }
+    .infobox .title {
+        font-size: 24px;
+        line-height: 34px;
+        margin-top: 10px;
+        color: #444;
+        font-weight: 300;
+    }
+
+
+    footer {
+        color: #4482F0; /*#CABD4B;*/
+        font-size: 11px;
+        font-family: sans-serif;
+        text-align: center;
+        margin: 25px;
+
+        position: absolute;
+        bottom: 5px;
+        left: 0;
+        right: 0;
+    }
+    </style>
+
+  <body>
+
+  <div class="card">
+    <div class="imgbox" data-frame="">
+      <img src="/assets/rome/rustbridge.jpg" alt="rustbridge" class="img_speaker">
+    </div>
+
+    <section class="infobox" contenteditable spellcheck="false">
+      <span class="twitter">RustFest presents:</span>
+      <span class="speaker">RustBridge Workshop returns!</span>
+      <span class="title">
+        <strong>Title</strong><br>
+      </span>
+    </section>
+
+    <footer contenteditable spellcheck="false">
+        RustFest ROme 2018&nbsp; ·&nbsp; TBA, Rome, Italy&nbsp; ·&nbsp; rome.rustfest.eu
+    </footer>
+  </div>
+
+
+<script>
+var data = [
+  ["nick.jpg","name", "@twitter", "title"],
+];
+var card = document.querySelector('.card:last-of-type');
+
+data.forEach(d => {
+  var nc = card.cloneNode(true);
+  nc.querySelector('img').src = '/assets/rome/speakers/'+d[0];
+  nc.querySelector('.speaker').textContent = d[1];
+  nc.querySelector('.twitter').textContent = d[2];
+  nc.querySelector('.title').textContent = d[3];
+  document.body.appendChild(nc);
+})
+
+card.style.display = "none";
+</script>
+  </body>
+
+
+</html>
