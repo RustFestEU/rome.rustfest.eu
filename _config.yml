@@ -13,15 +13,17 @@ social:
 socialImageSrc: "/assets/favicons/logo.png"
 
 location:
-  venue: "TBA"
+  venue: "Centro Congressi Frentani"
+  second_venue : "Hotel Universo"
   impl_days: ""
   city: "Rome"
   country: "Italy"
 
+
 dates:
   year: "2018"
-  talks: "TBA"
-  workshops: "TBA"
+  talks: "Saturday November 24th "
+  workshops: "Sunday November 25th "
   impl_days: "TBA"
   impl_days_no_br: "TBA"
 
