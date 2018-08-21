@@ -41,7 +41,7 @@ Rome has fast trains stopping at Roma Termini from most of the main cities of It
 Italy is part of the European Union (EU) as well as the Schengen Agreement. EU and EEA citizens can enter Italy without a visa, as long as a valid ID card or passport can be presented. As usual, a visa granted for any Schengen member is valid in Italy as well. For more information, check out Wikivoyage on Travelling around the Schengen Area.
 	 
 ## Venue
-Rust Fest Rome will be hosted at the (Frentani Congress Center)[https://www.congressifrentani.it/centrocongressi/] and at [Hotel Universo](https://www.hoteluniverso.com/it/meeting-congressi.aspx) (some workshops)
+Rust Fest Rome will be hosted both days at the (Frentani Congress Center)[https://www.congressifrentani.it/centrocongressi/] and for the second day some workshops will be hosted at: [Hotel Universo](https://www.hoteluniverso.com/it/meeting-congressi/dettagli-sale-meeting-roma.aspx)
 
 ## Getting there
 The address of the venue is "Via dei Frentani, 4 00185 Roma"
@@ -52,6 +52,12 @@ or 9 minutes walking distance from "Castro Pretorio" Metro B station.
 Under 5 minutes walking distance there are bus stops of the bus lines:
 310, 492, 649, C3	
 	
+The second location for some workshops is at:  
+"Best Western Plus Hotel Universo Roma Via Principe Amedeo 5/b - 00185 - Roma (RM)"  
+
+Is 5 Minutes walking from "Roma Termini" station.
+
+
 The public transport in Rome is managed by Atac, here the info to buy [tickets](http://www.atac.roma.it/page.asp?p=228&i=14&r=2875)
 	
 	
