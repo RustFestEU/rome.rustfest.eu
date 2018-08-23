@@ -10,7 +10,7 @@ RustFest is an inclusive conference and as such strives to be accessible to ever
 * Ensuring all our venues are accessible by wheelchair.
 * Live transcription of all talks.
     - Appropriate measures can be taken for the workshop day and the impl days. Please get in touch.
-* Makeing sure that maps and orientation material is available.
+* Making sure that maps and orientation material is available.
 * Providing clear signage to, from and through the building
 * Providing quiet spaces for those with sensory issues.
 * Providing accessibility for conference sessions.
