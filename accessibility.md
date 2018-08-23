@@ -18,6 +18,7 @@ RustFest is an inclusive conference and as such strives to be accessible to ever
 * Access to non-gendered toilets.
 * Serving a wide range of food and special requests.
 * An all-around help hotline during the time of the conference.
+* Providing 5 tickets specifically through [diversityticket.org](https://diversitytickets.org).
 
 If you’re not sure whether the concession rate should apply to you, please do get in touch.
 
