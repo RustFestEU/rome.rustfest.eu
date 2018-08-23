@@ -1,7 +1,7 @@
 - title: News
   link: https://blog.rustfest.eu/
 - title: Past Events
-  link: https://blog.rustfest.eu/past_events/
+  link: /past_events/
 - title: Location
-  link: https://rome.rustfest.eu/location/
+  link: /location/
 
