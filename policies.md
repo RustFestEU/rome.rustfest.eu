@@ -1,7 +1,7 @@
 ---
 layout: blue_page
-permalink: /policies/
-title: Policies
+permalink: /info/
+title: Information & Policies
 ---
 
 RustFest documents all their policies openly. They can be found here:
