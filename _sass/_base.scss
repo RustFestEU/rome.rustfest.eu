@@ -48,12 +48,11 @@ h1 {
 h2 {
   font-size: 24px;
   @include wide-device {
-    font-size: 27px;
+    font-size: 35px;
   }
   
   margin-top: 1em;
   margin-bottom: 0;
-  font-weight: 300;
 }
 
 h1, h2, h3, h4 {

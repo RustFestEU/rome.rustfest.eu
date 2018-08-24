@@ -1,6 +1,8 @@
 - title: News
   link: https://blog.rustfest.eu/
-- title: Past Events
-  link: https://blog.rustfest.eu/past_events/
 - title: "Info & Policies"
   link: /info/
+- title: Location
+  link: /location/
+- title: Past Events
+  link: https://blog.rustfest.eu/past_events/
