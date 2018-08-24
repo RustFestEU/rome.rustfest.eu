@@ -10,7 +10,7 @@ social:
   twitter: rustfest
   github: rustfesteu
   facebook: rustfest
-socialImageSrc: "/assets/favicons/logo.png"
+socialImageSrc: "/assets/favicons/logo.svg"
 
 location:
   venue: "Centro Congressi Frentani"
