@@ -1,6 +1,6 @@
 ---
 name: István Szmozsánszky
-groups: 
+groups:
   - organizer
 links:
   - icon: twitter
@@ -9,4 +9,5 @@ links:
     link: https://github.com/flaki
   - icon: medium
     link: https://medium.com/@slsoftworks
+priority: 80
 ---

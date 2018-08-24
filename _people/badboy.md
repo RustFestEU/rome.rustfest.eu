@@ -1,6 +1,6 @@
 ---
 name: Jan-Erik Rediger
-groups: 
+groups:
   - organizer
 links:
   - icon: twitter
@@ -9,4 +9,5 @@ links:
     link: https://github.com/badboy
   - icon: website
     link: https://fnordig.de/
+priority: 80
 ---

@@ -1,6 +1,6 @@
 ---
 name: Florian Gilcher
-groups: 
+groups:
   - organizer
 links:
   - icon: twitter
@@ -9,4 +9,5 @@ links:
     link: https://github.com/skade
   - icon: website
     link: http://asquera.de/
+priority: 80
 ---

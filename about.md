@@ -8,7 +8,7 @@ RustFest is Europe’s Rust-dedicated conference. The next edition of RustFest w
 
 We care about diversity and accessibility at this conference -- please take a look at our [Code of Conduct](/code-of-conduct/) and [Accessibility Statement](/accessibility/).
 
-{% assign organizers = site.people | where_exp: "person", "person.groups contains 'organizer'" %}
+{% assign organizers = site.people | where_exp: "person", "person.groups contains 'organizer'" | sort: 'priority'  %}
 
 <section>
   <h2>Team</h2>
