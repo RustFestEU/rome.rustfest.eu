@@ -56,7 +56,7 @@ Under 5 minutes walking distance there are bus stops of the bus lines:
 - 649
 - C3	
 	
-The second location for some workshops is at [Best Western Plus Hotel Universo Roma Via Principe Amedeo 5/b - 00185 - Roma (RM)] (https://www.openstreetmap.org/search?query=41.90031%2C12.49769#map=19/41.90031/12.49769)
+The second location for some workshops is at [Best Western Plus Hotel Universo Roma Via Principe Amedeo 5/b - 00185 - Roma (RM)](https://www.openstreetmap.org/search?query=41.90031%2C12.49769#map=19/41.90031/12.49769)
 
 It is 5 Minutes walking from "Roma Termini" station.
 
