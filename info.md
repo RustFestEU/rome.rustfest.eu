@@ -20,4 +20,5 @@ Please [mail us](mailto:team@rustfest.eu) if anything is unclear.
 
 ## Info
 
+* [Diversity @ RustFest](/diversity)
 * [FOSS at RustFest](/foss)
