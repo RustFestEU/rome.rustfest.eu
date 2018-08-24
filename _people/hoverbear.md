@@ -1,6 +1,6 @@
 ---
 name: Andrew Hobden
-groups: 
+groups:
   - organizer
 links:
   - icon: twitter
@@ -9,6 +9,7 @@ links:
     link: https://github.com/Hoverbear
   - icon: website
     link: https://hoverbear.org
+priority: 80
 ---
 
 Explorer of distributed systems.

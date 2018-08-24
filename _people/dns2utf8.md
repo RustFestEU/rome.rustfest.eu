@@ -1,6 +1,6 @@
 ---
 name: Stefan Schindler
-groups: 
+groups:
   - organizer
 links:
   - icon: twitter
@@ -9,4 +9,5 @@ links:
     link: https://github.com/dns2utf8
   - icon: website
     link: http://estada.ch
+priority: 99
 ---
