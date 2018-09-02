@@ -2,6 +2,7 @@
 name: Emanuele Tagliaferri
 groups:
   - organizer
+  - committee
 links:
   - icon: twitter
     link: https://twitter.com/tglman

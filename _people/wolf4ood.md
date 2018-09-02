@@ -2,6 +2,7 @@
 name: Enrico Risa
 groups:
   - organizer
+  - committee
 links:
   - icon: twitter
     link: https://twitter.com/wolf4ood

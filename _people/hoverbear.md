@@ -2,6 +2,7 @@
 name: Andrew Hobden
 groups:
   - organizer
+  - committee
 links:
   - icon: twitter
     link: https://twitter.com/AndrewHobden
