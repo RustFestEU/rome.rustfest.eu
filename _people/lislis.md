@@ -8,5 +8,4 @@ links:
 priority: 60
 ---
 
-Lisa is a software developer and hobbyist game creator and creative
-coder living in Berlin.
+Lisa is a software developer and hobbyist game creator and creative coder living in Berlin.

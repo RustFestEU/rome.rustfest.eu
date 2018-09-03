@@ -10,5 +10,4 @@ links:
 priority: 60
 ---
 
-
 Santiago Pastorino is WyeWorks co-founder, Ruby on Rails core team member and Rust Developer. He is currently part of NLL WG. Santiago organises Rust LATAM.
