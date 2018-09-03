@@ -10,3 +10,5 @@ links:
     link: https://github.com/tglman
 priority: 0
 ---
+
+RustFest Rome local organiser.

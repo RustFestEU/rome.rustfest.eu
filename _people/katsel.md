@@ -10,3 +10,7 @@ links:
     link: https://github.com/katsel
 priority: 60
 ---
+
+Co-organiser of first RustFest, computer science student with sociology background, avowed underachiever.
+
+Pronouns: they/them

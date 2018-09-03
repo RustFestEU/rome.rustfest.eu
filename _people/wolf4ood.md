@@ -10,3 +10,5 @@ links:
     link: https://github.com/wolf4ood
 priority: 0
 ---
+
+RustFest Rome local organiser.
