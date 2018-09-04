@@ -3,6 +3,7 @@ name: Guillaume Gomez
 jpg: true
 groups:
   - organizer
+  - committee
 links:
   - icon: github
     link: https://github.com/GuillaumeGomez
@@ -10,3 +11,5 @@ links:
     link: https://blog.guillaume-gomez.fr
 priority: 99
 ---
+
+Young IT engineer, enthusiast open source contributor, Rust reviewer, gtk-rs organization owner and GNOME foundation member.
