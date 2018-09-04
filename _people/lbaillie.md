@@ -10,6 +10,4 @@ links:
 priority: 60
 ---
 
-Lee Baillie is a RustFest Kyiv speaker and all-around programmer at Tilde, Inc.
-
-Pronouns: they/them
+Lee Baillie herds Rubies and wrangles JavaScripts (occasionally also tending to the Rust garden) at Tilde in Portland, OR, mainly in the context of building Skylight, a Rails performance profiler. In their spare time, they enjoy hanging out with their dog JPEG, exploring the beautiful outdoors of the PNW, and lifting heavy things only to put them down again.
