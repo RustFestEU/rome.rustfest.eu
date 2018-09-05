@@ -58,10 +58,10 @@ bodytags: with-hero
 {% assign gold_sponsors = site.sponsors | where: "level", "gold" %}
 {% assign silver_sponsors = site.sponsors | where: "level", "silver" %}
 
-<!--
+
 <div class='popout sponsors'>
-  <section>
-    {% if platinum_sponsors[0] %}
+ <section>
+  <!--   {% if platinum_sponsors[0] %}
     <h2>Platinum Sponsor{% if platinum_sponsors[1] %}s{% endif %}</h2>
     <ul>
       {% for sponsor in platinum_sponsors %}
@@ -87,15 +87,21 @@ bodytags: with-hero
       {% endfor %}
     </ul>
     {% endif %}
-
+    -->
     <div style="text-align: right">
-      <a class="button primary" href="/sponsors/">
-        Sponsors
+      <a class="button primary" href="https://cfp.rustfest.eu/events/rustfest-rome-2018">
+        Submit to CFP
       </a>
+      <a class="button primary" href="https://ti.to/asquera-event-ug/rustfest-rome-2018/">
+        Supporter Tickets 
+      </a>
+      <!-- <a class="button primary" href="/sponsors/">
+        Sponsoring Information
+      </a> -->
     </div>
   </section>
 </div>
--->
+
 
 <div id="news">
   <section>
