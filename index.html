@@ -58,44 +58,23 @@ bodytags: with-hero
 {% assign gold_sponsors = site.sponsors | where: "level", "gold" %}
 {% assign silver_sponsors = site.sponsors | where: "level", "silver" %}
 
-<!--
+
 <div class='popout sponsors'>
-  <section>
-    {% if platinum_sponsors[0] %}
-    <h2>Platinum Sponsor{% if platinum_sponsors[1] %}s{% endif %}</h2>
-    <ul>
-      {% for sponsor in platinum_sponsors %}
-        <li><a href="{{sponsor.link}}" title="{{sponsor.name}}"><img src="/assets/sponsors/{{sponsor.slug}}.{% if sponsor.png %}png{% else %}svg{% endif %}" /></a></li>
-      {% endfor %}
-    </ul>
-    {% endif %}
-
-    {% if gold_sponsors[0] %}
-    <h2>Gold Sponsor{% if gold_sponsors[1] %}s{% endif %}</h2>
-    <ul>
-      {% for sponsor in gold_sponsors %}
-        <li><a href="{{sponsor.link}}" title="{{sponsor.name}}"><img src="/assets/sponsors/{{sponsor.slug}}.{% if sponsor.png %}png{% else %}svg{% endif %}" /></a></li>
-      {% endfor %}
-    </ul>
-    {% endif %}
-
-    {% if silver_sponsors[0] %}
-    <h2>Silver Sponsor{% if silver_sponsors[1] %}s{% endif %}</h2>
-    <ul>
-      {% for sponsor in silver_sponsors %}
-        <li><a href="{{sponsor.link}}" title="{{sponsor.name}}"><img src="/assets/sponsors/{{sponsor.slug}}.{% if sponsor.png %}png{% else %}svg{% endif %}" /></a></li>
-      {% endfor %}
-    </ul>
-    {% endif %}
-
+ <section>
     <div style="text-align: right">
-      <a class="button primary" href="/sponsors/">
-        Sponsors
+      <a class="button primary" href="https://cfp.rustfest.eu/events/rustfest-rome-2018">
+        Submit to CFP
+      </a>
+      <a class="button primary" href="https://ti.to/asquera-event-ug/rustfest-rome-2018/">
+        Supporter Tickets 
+      </a>
+      <a class="button primary" href="/sponsors/packages/">
+        Sponsoring Information
       </a>
     </div>
   </section>
 </div>
--->
+
 
 <div id="news">
   <section>
