@@ -14,4 +14,4 @@ After RustFest, there's usually `impl days`. Kicked off as an idea from the Rust
 
 ## RustFest is an open project
 
-Anyone can express interest to join, and especially: all our material is free and can be used from out [online repository](https://github.com/rustfesteu). This especially applies to all text and writing on our websites, outside of personal pictures and bios.
+Anyone can express interest to join, and especially: all our material is free and can be used from our [online repository](https://github.com/rustfesteu). This especially applies to all text and writing on our websites, outside of personal pictures and bios.
