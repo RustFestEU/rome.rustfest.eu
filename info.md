@@ -18,3 +18,6 @@ RustFest documents all their policies openly. They can be found here:
 
 Please [mail us](mailto:team@rustfest.eu) if anything is unclear.
 
+## Info
+
+* [FOSS at RustFest](/foss)
