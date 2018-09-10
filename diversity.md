@@ -16,7 +16,7 @@ Budget overages are often invested into community efforts or kept around for the
 
 ## Above-average diversity efforts
 
-The last RustFests have had a sizable amount of diversity tickets (TODO: insert number/percentage). In contrast to many other conferences, we started to pay full travel and hotel lodging for the first set of tickets. This includes intercontinental travel. On request, we pre-pay the travel for diversity ticket holders.
+The last RustFests have had a sizable amount of diversity tickets (5%). In contrast to many other conferences, we started to pay full travel and hotel lodging for the first set of tickets. This includes intercontinental travel. On request, we pre-pay the travel for diversity ticket holders.
 
 It is important to us that diversity ticket holders have no issues attending. For a conference of our price range, travel is often more prohibitive than tickets.
 
