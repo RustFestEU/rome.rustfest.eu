@@ -107,7 +107,7 @@ title: Sponsoring
   <h2>Interested in sponsoring us?</h2>
   <br />
   <p>
-    <a class="button" href="mailto:team@rustfest.eu">
+    <a class="button" href="mailto:sponsors@rustfest.eu">
       Get in touch now
     </a>
     <a class="button" href="/sponsors/packages/">
