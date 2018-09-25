@@ -26,6 +26,7 @@ dates:
   workshops: "Sunday, November 25th"
   impl_days: "TBA"
   impl_days_no_br: "TBA"
+  short_form: "Nov. 24th-25th 2018"
 
 event:
   assets: "/assets/rome/"
