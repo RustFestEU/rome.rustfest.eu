@@ -3,7 +3,7 @@
     <a href="/" class="logo" title="RustFest" alt="RustFest">
       {% include icons/logo-header.svg %}
     </a>
-    <span style="color:white;">{{ site.location.city }}, {{ site.location.country }} - {{ site.dates.short_form }}</span>
+    <span class="dates_props">{{ site.location.city }}, {{ site.location.country }} - {{ site.dates.short_form }}</span>
     <nav role="navigation">
       <ul id="js-navigation-menu" class="navigation-menu show">
         {% for item in site.data.header_menu %}

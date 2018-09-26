@@ -8,6 +8,10 @@ header.navigation {
     @include align-items(center);
   }
 
+  // only for conference dates in header
+  .dates_props {
+      color: white;
+  }
 
   a {
     color: white;
@@ -15,7 +19,7 @@ header.navigation {
 
   // To the left
   .logo {
-    padding: 1em 2em;
+    padding: 1em 1em;
     display: block;
 
     @include wide-device {
@@ -51,8 +55,8 @@ header.navigation {
 
       li {
         display: inline-block;
-        margin: 0 1em;
-        padding: 0.4em;
+        margin: 0 0.1em;
+        padding: 0.3em;
 
         @include wide-device {
           padding: 0;
@@ -68,7 +72,7 @@ header.navigation {
 
       li {
         display: inline-block;
-        margin: 0 1em;
+        margin: 0 0.3em;
         border: 2px solid $brand_green;
         border-radius: 100%;
         position: relative;
