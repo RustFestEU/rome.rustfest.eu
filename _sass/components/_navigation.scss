@@ -8,9 +8,10 @@ header.navigation {
     @include align-items(center);
   }
 
-  // only for conference dates in header
   .dates_props {
       color: white;
+      font-size: 80%;
+      text-align: center;
   }
 
   a {
@@ -22,7 +23,7 @@ header.navigation {
 
   // To the left
   .logo {
-    padding: 1em 1em;
+    padding: 1em 3.2em;
     display: block;
 
     @include wide-device {
@@ -58,8 +59,8 @@ header.navigation {
 
       li {
         display: inline-block;
-        margin: 0 0.1em;
-        padding: 0.3em;
+        margin: 0 1em;
+        padding: 0.4em;
 
         @include wide-device {
           padding: 0;
