@@ -13,15 +13,14 @@ title: Sponsoring
 {% assign media = site.sponsors | where: "group", "media" %}
 
 <div class="popout sponsors">
-  <section>
-    <h1>Sponsors</h1>
-    <hr />
-    <p>
-      RustFest wouldn't be possible without generous support of sponsors.
-      If you want to sponsor this year's RustFest Rome contact us at <a href="mailto:team@rustfest.eu">team@rustfest.eu</a>
-    </p>
-  </section>
+    <section>
+        <h1>Sponsors</h1>
+        <hr />
+        <p>RustFest wouldn't be possible without generous support of sponsors.</p>
+    </section>
 </div>
+
+{% comment %}
 
 <!--
 
@@ -101,6 +100,8 @@ title: Sponsoring
 
 </div>
 
+-->
+{% endcomment %}
 
 <section class="whitewithwheel">
   <h2>Interested in sponsoring us?</h2>
@@ -114,4 +115,3 @@ title: Sponsoring
     </a>
   </p>
 </section>
--->
