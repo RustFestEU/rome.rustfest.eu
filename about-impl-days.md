@@ -26,9 +26,9 @@ permalink: /about_impl_days/
 TODO: add sponsors
 {% endcomment %}
 
-`impl Days` is the sibling event of RustFest&lt;Rome&gt;. `impl Days` is an open-ended time
-for Rust contributors to collaborate in an active programming session. It will take place on the two days following the
-RustFest talks and workshops, on {{site.dates.impl_days_no_br}} {{site.dates.year}}.
+`impl Days` is the sibling event of RustFest&lt;Rome&gt;. `impl Days` is a full-day event for Rust contributors to
+collaborate in an active programming session. It will take place on the two days following the RustFest talks and
+workshops, on {{site.dates.impl_days_no_br}} {{site.dates.year}}.
 
 ## History
 
@@ -75,8 +75,9 @@ TODO: add coordinator, schedule
 Schedule about the Impl Days will announced when details will be finalized.
 
 The general idea is to arrive at the location around 9:00 AM, then there will be a headcount and some time spent getting
-to know each other, finally identify tasks for participants to collaborate on.  will be coffee provided at the venue, and a break for a lunch. Each of the two
-`impl Days` will start winding down at around 5 PM. All participants must leave the venue premises each day by around 6 PM. Exact time tables will be announced later.
+to know each other, finally identify tasks for participants to collaborate on.  Each of the two `impl Days` will start
+winding down at around 5 PM. All participants must leave the venue premises each day by around 6 PM. Exact time tables
+will be announced later. Further details will be finalized at a later stage.
 
 * People can freely work on their own with headphones or form little groups. There
 
