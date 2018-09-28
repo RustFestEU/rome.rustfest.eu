@@ -1,13 +1,11 @@
 <header class="navigation" role="banner">
   <section class="itemgroup">
-    <div class="dates_props">
-      <a href="/" class="logo" title="RustFest" alt="RustFest">
-        {% include icons/logo-header.svg %}
-      </a>
-      {{ site.dates.short_form }}
-      <br />
-      {{ site.location.city }}, {{ site.location.country }}
-    </div>
+    <a href="/" class="logo" title="RustFest">
+      {% include icons/logo-header.svg %}
+      <span class="site-title">
+        RustFest
+      </span>
+    </a>
     <nav role="navigation">
       <ul id="js-navigation-menu" class="navigation-menu show">
         {% for item in site.data.header_menu %}
@@ -35,6 +33,7 @@
           </a>
         </li>
       </ul>
+      <span class="dates_props">2018-11-24 &amp; 25, {{ site.location.city }} 🇮🇹</span>
     </div>
   </section>
 </header>
