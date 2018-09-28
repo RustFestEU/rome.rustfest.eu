@@ -4,7 +4,7 @@
   position: relative;
   padding: {
     top: 2em;
-    bottom: 2em;
+    bottom: 0;
   };
 
   &::before {
@@ -25,6 +25,19 @@
   h1 {
     @include wide-device {
       margin-top: 2em;
+    }
+  }
+
+  .itemgroup {
+    margin: 1em 0;
+
+    div {
+      margin: 1em 3em 0 0;
+      min-width: 270px;
+    }
+
+    div:nth-child(2n) {
+      flex-basis: 50%;
     }
   }
 }
