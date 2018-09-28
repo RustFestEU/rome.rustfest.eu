@@ -31,5 +31,9 @@ footer {
 
   a, a:visited {
     color: white;
+
+    &:hover {
+      color: $brand_yellow;
+    }
   }
 }

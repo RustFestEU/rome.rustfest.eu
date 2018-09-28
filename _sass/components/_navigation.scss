@@ -8,9 +8,17 @@ header.navigation {
     @include align-items(center);
   }
 
+  .dates_props {
+      color: white;
+      font-size: 80%;
+      text-align: center;
+  }
 
   a {
     color: white;
+    &:hover {
+      color: $brand_yellow;
+    }
   }
 
   // To the left
@@ -68,7 +76,7 @@ header.navigation {
 
       li {
         display: inline-block;
-        margin: 0 1em;
+        margin: 0 0.3em;
         border: 2px solid $brand_green;
         border-radius: 100%;
         position: relative;
