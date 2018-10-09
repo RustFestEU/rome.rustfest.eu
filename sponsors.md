@@ -12,6 +12,7 @@ title: Sponsoring
 {% assign venue = site.sponsors | where: "group", "venue" %}
 {% assign media = site.sponsors | where: "group", "media" %}
 
+{% comment %}
 <div class="popout sponsors">
     <section>
         <h1>Sponsors</h1>
@@ -19,10 +20,8 @@ title: Sponsoring
         <p>RustFest wouldn't be possible without generous support of sponsors.</p>
     </section>
 </div>
+{% endcomment %}
 
-{% comment %}
-
-<!--
 
 <div class="popout sponsors">
   <section>
@@ -71,7 +70,7 @@ title: Sponsoring
         {% endfor %}
       </ul>
   </section>
-
+{% if media[0] %}
   <section>
     <h2>Media Partner</h2>
     <hr />
@@ -84,7 +83,8 @@ title: Sponsoring
         {% endfor %}
       </ul>
   </section>
-
+{% endif %}
+{% if venue[0] %}
   <section>
     <h2>Venues</h2>
     <hr />
@@ -97,11 +97,9 @@ title: Sponsoring
         {% endfor %}
       </ul>
   </section>
-
+{% endif %}
 </div>
 
--->
-{% endcomment %}
 
 <section class="whitewithwheel">
   <h2>Interested in sponsoring us?</h2>
