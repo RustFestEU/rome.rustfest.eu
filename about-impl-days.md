@@ -43,8 +43,8 @@ Plus, <a href="https://botbot.me/mozilla/rust-internals/2017-10-02/?msg=91818378
 Star</a>.
 
 The Zurich `impl Days` was such a success that we decided to repeat the event in Paris and it was an even <a
-href="https://twitter.com/MozillaParis/status/1001434063264272384" target="_new">bigger success</a> (also, <a
-href="https://twitter.com/simukis/status/1001122476011802626" target="_new">a rocket</a>).
+href="https://twitter.com/MozillaParis/status/1001434063264272384" target="_blank">bigger success</a> (also, <a
+href="https://twitter.com/simukis/status/1001122476011802626" target="_blank">a rocket</a>).
 
 ## `impl Days` Rome
 
@@ -72,7 +72,7 @@ RustFest ticket.
 TODO: add coordinator, schedule
 {% endcomment %}
 
-Schedule about the Impl Days will announced when details will be finalized.
+Schedule about the impl Days will announced when details will be finalized.
 
 The general idea is to arrive at the location around 9:00 AM, then there will be a headcount and some time spent getting
 to know each other, finally identify tasks for participants to collaborate on.  Each of the two `impl Days` will start
@@ -93,7 +93,7 @@ Lacking ideas or suggestions for projects to work on? No problem!
 
 * Documentation: many crates are in need of a bare `README.md` or some usage examples in the `examples` directory.
 
-Most of all participants should enjoy the Impl Days without any pressure or accomplishment requirement. If your final result for the Impl Days is a better understanding of the Rust world and having met some cool folks to keep in touch with, well - that's a fantastic result either! 🎊
+Most of all participants should enjoy the impl Days without any pressure or accomplishment requirement. If your final result for the impl Days is a better understanding of the Rust world and having met some cool folks to keep in touch with, well - that's a fantastic result either! 🎊
 
 More detailed plans will be done on-the-fly at the `impl Days` itself, based on the skill sets of the people who show
 up to contribute.
