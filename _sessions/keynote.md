@@ -13,7 +13,7 @@ desc: >
 
 socialTwitterCardType: summary_large_image
 socialImageSrc: /assets/social/keynote.png
-description: TBA
+description: Keynote presentation by Rust project lead Aaron Turon
 
 day: saturday
 
