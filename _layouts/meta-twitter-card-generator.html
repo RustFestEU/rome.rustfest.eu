@@ -138,9 +138,31 @@
 
   <body>
 
+
   <div class="card">
-    <div class="imgbox" data-frame="">
+    <div class="imgbox" data-frame="/assets/favicons/logo.svg">
+      <img src="/assets/rome/speakers/irr.png" alt="rustbridge" class="img_speaker">
+      <img src="/assets/favicons/logo.svg" alt="RustFest Logo" class="frame">
+    </div><div class="imgbox" data-frame="/assets/favicons/logo.svg">
+      <img src="/assets/rome/speakers/aturon.jpg" alt="rustbridge" class="img_speaker">
+      <img src="/assets/favicons/logo.svg" alt="RustFest Logo" class="frame">
+    </div>
+
+    <section class="infobox" spellcheck="false" contenteditable="">
+      <span class="twitter">This Week In RustFest</span> <span class="speaker" style="margin-right: -10px;font-size: 29px;">Talk Selection, Keynotes, Tickets</span> <span class="title">Check out the RustFest Rome Keynotes while the comittee chooses from the talk submissions!</span>
+    </section>
+
+    <footer spellcheck="false" contenteditable="">
+        RustFest Rome 2018&nbsp; ·&nbsp; Nov. 24-25., Rome, Italy&nbsp; ·&nbsp; rome.rustfest.eu
+    </footer>
+  </div>
+
+
+
+  <div class="card">
+    <div class="imgbox" data-frame="/assets/favicons/logo.svg">
       <img src="/assets/rome/rustbridge.jpg" alt="rustbridge" class="img_speaker">
+      <img src="/assets/favicons/logo.svg" alt="RustFest Logo" class="frame">
     </div>
 
     <section class="infobox" contenteditable spellcheck="false">
@@ -152,7 +174,7 @@
     </section>
 
     <footer contenteditable spellcheck="false">
-        RustFest ROme 2018&nbsp; ·&nbsp; TBA, Rome, Italy&nbsp; ·&nbsp; rome.rustfest.eu
+        RustFest Rome 2018&nbsp; ·&nbsp; Nov. 24-25., Rome, Italy&nbsp; ·&nbsp; rome.rustfest.eu
     </footer>
   </div>
 
@@ -160,6 +182,8 @@
 <script>
 var data = [
   ["nick.jpg","name", "@twitter", "title"],
+  ["aturon.jpg","Aaron Turon", "@aaron_turon", "Keynote Presentation — TBA"],
+  ["irr.png","Increasing Rust's Reach", "#RustReach", "Project Highlight — Ashley Williams · Alan Kavishe · Lee Baillie"],
 ];
 var card = document.querySelector('.card:last-of-type');
 
