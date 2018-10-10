@@ -18,7 +18,7 @@ desc: >
 
 socialTwitterCardType: summary_large_image
 socialImageSrc: /assets/social/project-highlight.png
-description: TBA
+description: Ashley Williams, Alan Kavishe and Lee Baillie talks about the “Increasing Rust's Reach” project
 
 day: saturday
 
