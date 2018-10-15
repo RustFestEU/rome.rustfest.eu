@@ -15,17 +15,17 @@ socialImageSrc: "/assets/favicons/logo.svg"
 location:
   venue: "Centro Congressi Frentani"
   second_venue : "Hotel Universo"
-  impl_days: ""
   city: "Rome"
   country: "Italy"
-
+  impl_days: "TBA"
+  impl_days_overflow: "TBA"
 
 dates:
   year: "2018"
   talks: "Saturday, November 24th"
   workshops: "Sunday, November 25th"
-  impl_days: "TBA"
-  impl_days_no_br: "TBA"
+  impl_days: "Monday, November 26th and<br />Tuesday, November 27th"
+  impl_days_no_br: "Monday, November 26th and Tuesday, November 27th"
   short_form: "Nov., 24th-25th 2018"
 
 event:
