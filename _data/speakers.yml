@@ -49,9 +49,11 @@ lee:
 
 olivia:
   name: Olivia Hugger
-  thumbnailUrl: ~
+  thumbnailUrl: olivia.png
   links:
     - icon: github
       link: https://github.com/oe
+    - icon: twitter
+      link: https://twitter.com/dog_awoo
   desc: |
     Olivia is a sinology student from Berlin, as well as a hobbyist programmer and open source contributor. She's the RustBridge project lead, as well as a member of the Rust Community Team.
