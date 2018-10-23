@@ -44,3 +44,16 @@ lee:
       link: https://twitter.com/_lbaillie
   desc: |
     Lee Baillie herds Rubies and wrangles JavaScripts (occasionally also tending to the Rust garden) at Tilde in Portland, OR, mainly in the context of building Skylight, a Rails performance profiler. In their spare time, they enjoy hanging out with their dog JPEG, exploring the beautiful outdoors of the PNW, and lifting heavy things only to put them down again.
+
+# Workshops
+
+olivia:
+  name: Olivia Hugger
+  thumbnailUrl: olivia.jpg
+  links:
+    - icon: github
+      link: https://github.com/oe
+    - icon: twitter
+      link: https://twitter.com/dog_awoo
+  desc: |
+    Olivia is a sinology student from Berlin, as well as a hobbyist programmer and open source contributor. She's the RustBridge project lead, as well as a member of the Rust Community Team.
