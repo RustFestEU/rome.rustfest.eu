@@ -13,9 +13,9 @@ desc: >
 
 socialTwitterCardType: summary_large_image
 socialImageSrc: /assets/social/gameboy-emulator.png
-description: TODO
+description: Join Ryan's journey with Rust into the world of old gaming machines from the 80s and 90s, as he explores what it takes to implement a fully working Game Boy emulator.
 
 day: saturday
 
-public: false
+public: true
 ---

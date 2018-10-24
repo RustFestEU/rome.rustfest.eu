@@ -13,7 +13,7 @@ desc: >
 
 socialTwitterCardType: summary_large_image
 socialImageSrc: /assets/social/sequoia-a-new-openpgp-implementation-in-rust.png
-description: TODO
+description: Sequoia is a new OpenPGP implementation in Rust that emphasises usability and security as well. This talk will focus on the challenges faced using Rust and to the adopted solutions.
 
 day: saturday
 

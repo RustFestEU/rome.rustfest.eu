@@ -52,11 +52,11 @@ ryan-levick:
   thumbnailUrl: ryan-levick.jpg
   links:
     - icon: github
-      link: https://github.com/xxx
+      link: https://github.com/rylev
     - icon: twitter
-      link: https://twitter.com/xxx
+      link: https://twitter.com/itchyankles
   desc: |
-    Ryan Levick works at Microsoft creating apps. He's been writing Rust since before 1.0 and now loves teaching others about what Rust is capable of.
+    Ryan Levick is a programmer working at Microsoft in Berlin creating apps. In his day job he gets to program in many different programming languages but always enjoys it most when he gets to use Rust. Besides writing Rust, Ryan loves exploring spaces in Berlin and other cities, cooking/eating and dancing with reckless abandon.
 
 igor-matuszewski:
   name: Igor Matuszewski
@@ -85,20 +85,22 @@ yiming-jing:
   thumbnailUrl: yiming-jing.jpg
   links:
     - icon: github
-      link: https://github.com/xxx
+      link: https://github.com/kevinis
     - icon: twitter
-      link: https://twitter.com/xxx
+      link: https://twitter.com/__YimingJing
   desc: |
-    Yiming Jing is a staff security scientist at Baidu USA. He is the author and maintainer of [MesaLink](https://github.com/mesalock-linux/mesalink), a 100% pure Rust TLS library providing OpenSSL-compatible C APIs.
+    Dr. Yiming Jing is a senior security scientist at Baidu X-Lab. He has been working on Android security research and building secure software systems. He is the author and maintainer of [MesaLink](https://mesalink.io), a TLS library providing OpenSSL compatible C APIs.
 
 tshepang-lekhonkhobe:
   name: Tshepang Lekhonkhobe
   thumbnailUrl: tshepang-lekhonkhobe.jpg
   links:
     - icon: github
-      link: https://github.com/xxx
+      link: https://github.com/tshepang
     - icon: twitter
-      link: https://twitter.com/xxx
+      link: https://twitter.com/tshepang-dev
+    - icon: website
+      link: http://tshepang.net
   desc: |
     An electronic technician by training, I switched careers for I found software development more interesting and accessible (more cheap to practice, and more free learning resources). I've been in Python ecosystem for a number of years and have now switched to Rust for some reason. I've done quiet a bit of doc work for both ecosystems, and some code contributions. I would like to be a solid developer some day.
 
@@ -107,9 +109,15 @@ pascal-hertleif:
   thumbnailUrl: pascal-hertleif.jpg
   links:
     - icon: github
-      link: https://github.com/xxx
+      link: https://github.com/killercup
     - icon: twitter
-      link: https://twitter.com/xxx
+      link: https://twitter.com/killercup
+    - icon: website
+      link: https://deterministic.space
+    - icon: mastodon
+      link: https://mastodon.social/@killercup
+    - icon: website
+      link: https://pascalhertleif.de
   desc: |
     Pascal Hertleif works as a freelance software developer and has been active in the Rust community since 2014. He is the author of multiple open source libraries and co-organizer of Rust Cologne. Currently, he is leading the CLI working group to deliver an awesome experience for writing command line apps with Rust. You might also know him as the MC at RustFest Zürich.
 
