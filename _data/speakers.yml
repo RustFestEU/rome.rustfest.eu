@@ -202,4 +202,17 @@ hoverbear:
     - icon: website
       link: http://pingcap.com
 thumbnailUrl: hoverbear.png
+
+dns2utf8:
+  name: Stefan Schindler
+  thumbnailUrl: dns2utf8.png
+  links:
+    - icon: twitter
+      link: https://twitter.com/dns2utf8
+    - icon: github
+      link: https://github.com/dns2utf8
+    - icon: website
+      link: http://estada.ch
+  desc:
+
 ---
