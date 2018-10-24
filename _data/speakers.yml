@@ -45,6 +45,133 @@ lee:
   desc: |
     Lee Baillie herds Rubies and wrangles JavaScripts (occasionally also tending to the Rust garden) at Tilde in Portland, OR, mainly in the context of building Skylight, a Rails performance profiler. In their spare time, they enjoy hanging out with their dog JPEG, exploring the beautiful outdoors of the PNW, and lifting heavy things only to put them down again.
 
+# Talks
+
+ryan-levick:
+  name: Ryan Levick
+  thumbnailUrl: ryan-levick.jpg
+  links:
+    - icon: github
+      link: https://github.com/xxx
+    - icon: twitter
+      link: https://twitter.com/xxx
+  desc: |
+    Ryan Levick works at Microsoft creating apps. He's been writing Rust since before 1.0 and now loves teaching others about what Rust is capable of.
+
+igor-matuszewski:
+  name: Igor Matuszewski
+  thumbnailUrl: igor-matuszewski.jpg
+  links:
+    - icon: github
+      link: https://github.com/xxx
+    - icon: twitter
+      link: https://twitter.com/xxx
+  desc: |
+    Primarily involved in Rust with IDE support and tooling (helps maintain RLS since mid-2017). Being a good Rustacean, he decided to use his bachelor's thesis group project as a good excuse to support the ecosystem work on Servo, where he managed to tame C++ dragons and JavaScript spider monkeys using nothing but the power of oxidation.
+
+massimiliano-mantione:
+  name: Massimiliano Mantione
+  thumbnailUrl: massimiliano-mantione.jpg
+  links:
+    - icon: github
+      link: https://github.com/xxx
+    - icon: twitter
+      link: https://twitter.com/xxx
+  desc: |
+    Software Engineer at heart, mostly JIT compiler engineer (Mono, Unity3D, V8 in Google), now deploying Virtual Reality worlds on the web in Hyperfair, and Robot enthusiast as a hobby. I am using this passion for robotics as an excuse to learn Rust better, putting it into any robot I program.
+
+yiming-jing:
+  name: Yiming Jing
+  thumbnailUrl: yiming-jing.jpg
+  links:
+    - icon: github
+      link: https://github.com/xxx
+    - icon: twitter
+      link: https://twitter.com/xxx
+  desc: |
+    Yiming Jing is a staff security scientist at Baidu USA. He is the author and maintainer of [MesaLink](https://github.com/mesalock-linux/mesalink), a 100% pure Rust TLS library providing OpenSSL-compatible C APIs.
+
+tshepang-lekhonkhobe:
+  name: Tshepang Lekhonkhobe
+  thumbnailUrl: tshepang-lekhonkhobe.jpg
+  links:
+    - icon: github
+      link: https://github.com/xxx
+    - icon: twitter
+      link: https://twitter.com/xxx
+  desc: |
+    An electronic technician by training, I switched careers for I found software development more interesting and accessible (more cheap to practice, and more free learning resources). I've been in Python ecosystem for a number of years and have now switched to Rust for some reason. I've done quiet a bit of doc work for both ecosystems, and some code contributions. I would like to be a solid developer some day.
+
+pascal-hertleif:
+  name: Pascal Hertleif
+  thumbnailUrl: pascal-hertleif.jpg
+  links:
+    - icon: github
+      link: https://github.com/xxx
+    - icon: twitter
+      link: https://twitter.com/xxx
+  desc: |
+    Pascal Hertleif works as a freelance software developer and has been active in the Rust community since 2014. He is the author of multiple open source libraries and co-organizer of Rust Cologne. Currently, he is leading the CLI working group to deliver an awesome experience for writing command line apps with Rust. You might also know him as the MC at RustFest Zürich.
+
+katharina-fey:
+  name: Katharina Key
+  thumbnailUrl: katharina-fey.jpg
+  links:
+    - icon: github
+      link: https://github.com/spacecookie
+    - icon: twitter
+      link: https://twitter.com/spacecookie
+  desc: |
+     Katharina is a computer science student in Berlin who works part-time as a developer at Ferrous Systems. She's been writing Rust since mid-2017, is author of many crates and is an active community member. Currently she's part of the CLI working group, the community team, and generally interested in making developer experiences in Rust more ergonomic.
+
+matteo-bertini:
+  name: Matteo Bertini
+  thumbnailUrl: matteo-bertini.jpg
+  links:
+    - icon: website
+      link: https://naufraghi.slug.it
+    - icon: linkedin
+      link: https://www.linkedin.com/in/naufraghi
+    - icon: twitter
+      link: https://twitter.com/naufraghi
+  desc: |
+    Python developer since ages, Rust addict since some time pre 1.0. I love mix and match languages, and find the right tool for the job, especially if learning a new language can change my way of thinking about programming.
+
+adam-kelly:
+  name: Adam Kelly
+  thumbnailUrl: adam-kelly.jpg
+  links:
+    - icon: github
+      link: https://github.com/xxx
+    - icon: twitter
+      link: https://twitter.com/xxx
+  desc: |
+    I'm Adam, a student in Ireland who's into math, science and computers. I have been working on quantum computing with Python with a healthy amount of Rust every day.
+
+# backups
+
+nerijus-arlauskas:
+  name: Nerijus Arlauskas
+  thumbnailUrl: nerijus-arlauskas.jpg
+  links:
+    - icon: github
+      link: https://github.com/xxx
+    - icon: twitter
+      link: https://twitter.com/xxx
+  desc: |
+    Rust hobbyist since 1.0 release, enjoys writing tutorials about Rust, exploring new frontiers, experimenting with 3D graphics and microcontrollers.
+
+neal-h-walfield:
+  name: Neal H. Walfield
+  thumbnailUrl: neal-h-walfield.jpg
+  links:
+    - icon: github
+      link: https://github.com/xxx
+    - icon: twitter
+      link: https://twitter.com/xxx
+  desc: |
+    Prior to starting work on Sequoia in the fall of 2017, Neal was employed for 2.5 years by g10code to work on GnuPG. In addition to help maintain GnuPG, he implemented a new trust model, TOFU, which is based on ssh's host key checking mechanism. Neal also spent time evangelizing GnuPG by presenting his talk "An Advanced Introduction to GnuPG" across Europe and North America. Currently, Neal is employed by PEP to develop Sequoia.
+
 # Workshops
 
 olivia:
@@ -57,3 +184,35 @@ olivia:
       link: https://twitter.com/dog_awoo
   desc: |
     Olivia is a sinology student from Berlin, as well as a hobbyist programmer and open source contributor. She's the RustBridge project lead, as well as a member of the Rust Community Team.
+
+yann:
+  thumbnailUrl: yann.jpg
+  links:
+    - icon: website
+      link: https://1aim.com
+  desc: |
+    Yann Leretaille is a French-German tech entrepreneur and think-tank founder. He is the CTO and a co-founder of 1aim, a startup aimed at redefining how buildings work, as well as how we relate to the objects around us, and the Good Technology Collective. The collective advocates for rational data collection, greater public awareness of data gathering and use, and the importance of reframing the narrative of a future society centered around Internet of Things (IoT) to one based around the concept of intelligence by design.
+
+hoverbear:
+  name: Hoverbear
+  desc: "An explorer of distributed systems. Engineer at PingCAP."
+  links:
+    - icon: website
+      link: http://hoverbear.org
+    - icon: website
+      link: http://pingcap.com
+thumbnailUrl: hoverbear.png
+
+dns2utf8:
+  name: Stefan Schindler
+  thumbnailUrl: dns2utf8.png
+  links:
+    - icon: twitter
+      link: https://twitter.com/dns2utf8
+    - icon: github
+      link: https://github.com/dns2utf8
+    - icon: website
+      link: http://estada.ch
+  desc:
+
+---
