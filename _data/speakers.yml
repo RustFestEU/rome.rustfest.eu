@@ -114,7 +114,7 @@ pascal-hertleif:
     Pascal Hertleif works as a freelance software developer and has been active in the Rust community since 2014. He is the author of multiple open source libraries and co-organizer of Rust Cologne. Currently, he is leading the CLI working group to deliver an awesome experience for writing command line apps with Rust. You might also know him as the MC at RustFest Zürich.
 
 katharina-fey:
-  name: Katharina Key
+  name: Katharina Fey
   thumbnailUrl: katharina-fey.jpg
   links:
     - icon: github
