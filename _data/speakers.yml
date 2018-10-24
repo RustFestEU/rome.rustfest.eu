@@ -118,9 +118,9 @@ katharina-fey:
   thumbnailUrl: katharina-fey.jpg
   links:
     - icon: github
-      link: https://github.com/xxx
+      link: https://github.com/spacecookie
     - icon: twitter
-      link: https://twitter.com/xxx
+      link: https://twitter.com/spacecookie
   desc: |
      Katharina is a computer science student in Berlin who works part-time as a developer at Ferrous Systems. She's been writing Rust since mid-2017, is author of many crates and is an active community member. Currently she's part of the CLI working group, the community team, and generally interested in making developer experiences in Rust more ergonomic.
 
@@ -128,10 +128,12 @@ matteo-bertini:
   name: Matteo Bertini
   thumbnailUrl: matteo-bertini.jpg
   links:
-    - icon: github
-      link: https://github.com/xxx
+    - icon: website
+      link: https://naufraghi.slug.it
+    - icon: linkedin
+      link: https://www.linkedin.com/in/naufraghi
     - icon: twitter
-      link: https://twitter.com/xxx
+      link: https://twitter.com/naufraghi
   desc: |
     Python developer since ages, Rust addict since some time pre 1.0. I love mix and match languages, and find the right tool for the job, especially if learning a new language can change my way of thinking about programming.
 
@@ -182,3 +184,22 @@ olivia:
       link: https://twitter.com/dog_awoo
   desc: |
     Olivia is a sinology student from Berlin, as well as a hobbyist programmer and open source contributor. She's the RustBridge project lead, as well as a member of the Rust Community Team.
+
+yann:
+  thumbnailUrl: yann.jpg
+  links:
+    - icon: website
+      link: https://1aim.com
+  desc: |
+    Yann Leretaille is a French-German tech entrepreneur and think-tank founder. He is the CTO and a co-founder of 1aim, a startup aimed at redefining how buildings work, as well as how we relate to the objects around us, and the Good Technology Collective. The collective advocates for rational data collection, greater public awareness of data gathering and use, and the importance of reframing the narrative of a future society centered around Internet of Things (IoT) to one based around the concept of intelligence by design.
+
+hoverbear:
+  name: Hoverbear
+  desc: "An explorer of distributed systems. Engineer at PingCAP."
+  links:
+    - icon: website
+      link: http://hoverbear.org
+    - icon: website
+      link: http://pingcap.com
+thumbnailUrl: hoverbear.png
+---

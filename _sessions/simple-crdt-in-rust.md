@@ -13,7 +13,7 @@ desc: >
 
 socialTwitterCardType: summary_large_image
 socialImageSrc: /assets/social/simple-crdt-in-rust.png
-description: TODO
+description: A conflict-free replicated data type (CRDT) is a data structure that can be replicated; in this talk we will explore how to implement a cli for a CRDT shopping list.
 
 day: saturday
 

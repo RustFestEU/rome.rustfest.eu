@@ -17,5 +17,6 @@ description: TODO
 
 day: saturday
 
-public: true
+public: false
+
 ---

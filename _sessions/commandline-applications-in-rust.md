@@ -13,7 +13,7 @@ desc: >
 
 socialTwitterCardType: summary_large_image
 socialImageSrc: /assets/social/commandline-applications-in-rust.png
-description: TODO
+description: This talk will review some of the progress that was made, and show how the process of writing a command-line application in Rust looks from 2018 onward.
 
 day: saturday
 
