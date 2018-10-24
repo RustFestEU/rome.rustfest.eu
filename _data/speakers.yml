@@ -169,3 +169,16 @@ neal-h-walfield:
       link: https://twitter.com/xxx
   desc: |
     Prior to starting work on Sequoia in the fall of 2017, Neal was employed for 2.5 years by g10code to work on GnuPG. In addition to help maintain GnuPG, he implemented a new trust model, TOFU, which is based on ssh's host key checking mechanism. Neal also spent time evangelizing GnuPG by presenting his talk "An Advanced Introduction to GnuPG" across Europe and North America. Currently, Neal is employed by PEP to develop Sequoia.
+
+# Workshops
+
+olivia:
+  name: Olivia Hugger
+  thumbnailUrl: olivia.jpg
+  links:
+    - icon: github
+      link: https://github.com/oe
+    - icon: twitter
+      link: https://twitter.com/dog_awoo
+  desc: |
+    Olivia is a sinology student from Berlin, as well as a hobbyist programmer and open source contributor. She's the RustBridge project lead, as well as a member of the Rust Community Team.
