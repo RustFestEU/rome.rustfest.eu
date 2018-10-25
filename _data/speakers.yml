@@ -118,9 +118,9 @@ katharina-fey:
   thumbnailUrl: katharina-fey.jpg
   links:
     - icon: github
-      link: https://github.com/spacecookie
+      link: https://github.com/spacekookie
     - icon: twitter
-      link: https://twitter.com/spacecookie
+      link: https://twitter.com/spacekookie
   desc: |
      Katharina is a computer science student in Berlin who works part-time as a developer at Ferrous Systems. She's been writing Rust since mid-2017, is author of many crates and is an active community member. Currently she's part of the CLI working group, the community team, and generally interested in making developer experiences in Rust more ergonomic.
 
