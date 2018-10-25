@@ -190,6 +190,7 @@ olivia:
     Olivia is a sinology student from Berlin, as well as a hobbyist programmer and open source contributor. She's the RustBridge project lead, as well as a member of the Rust Community Team.
 
 yann:
+  name: "Yann Leretaille"
   thumbnailUrl: yann.jpg
   links:
     - icon: website
@@ -218,5 +219,43 @@ dns2utf8:
     - icon: website
       link: http://estada.ch
   desc:
+
+llogiq:
+  name: Andre 'llogiq' Bogus
+  thumbnailUrl: llogiq.jpg
+  links:
+    - icon: website
+      link: https://llogiq.github.io/
+    - icon: github
+      link: https://github.com/llogiq
+    - icon: twitter
+      link: https://twitter.com/llogiq
+  desc: |
+    The quintessential Rust bard Musician by heart, programmer by trade, Rustacean, Lint maven, nags weekly on rust-users and reddit.
+
+imperio:
+  name: Guillaume Gomez
+  thumbnailUrl: imperio.jpg
+  links:
+    - icon: github
+      link: https://github.com/GuillaumeGomez
+    - icon: website
+      link: https://blog.guillaume-gomez.fr
+  desc: |
+    Young IT engineer, enthusiast open source contributor, Rust reviewer, gtk-rs organization owner and GNOME foundation member.
+
+slomo:
+  name: Sebastian Dröge
+  thumbnailUrl: slomo.jpg
+  links:
+    - icon: github
+      link: https://github.com/sdroege
+    - icon: twitter
+      link: https://twitter.com/sdroege_
+    - icon: website
+      link: https://coaxion.net/
+  desc: |
+    Sebastian Dröge (slomo) is a Free Software developer and one of the GStreamer maintainers and core developers. He has been involved with the project since more than 10 years now. He also contributes to various other Free Software projects, like Debian, Rust, GNOME and WebKit. While finishing his master's degree in computer sciences at the University of Paderborn in Germany, he started working as a contractor for GStreamer and related technologies. Sebastian is one of the founders of Centricular, a company providing consultancy services, where he's working from his new home in Greece on improving GStreamer and the Free Software ecosystem in general.
+    Apart from multimedia related topics, Sebastian has an interest in digital signal processing, programming languages, machine learning, network protocols and distributed systems.
 
 ---
