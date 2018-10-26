@@ -13,7 +13,7 @@ desc: >
 
 socialTwitterCardType: summary_large_image
 socialImageSrc: /assets/social/fun-with-rusty-robots.png
-description: TODO
+description: Robot Sumo fights? Raspberry PI, Beaglebone? Lego Mindstorm CPU? Come and see a practical approach on how Rust can work on all these platforms!
 
 day: saturday
 

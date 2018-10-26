@@ -138,13 +138,13 @@
 
   <body>
 
-
+  <!-- EXAMPLE of social card with multiple speakers  -->
   <div class="card">
     <div class="imgbox" data-frame="/assets/favicons/logo.svg">
-      <img src="/assets/rome/speakers/irr.png" alt="rustbridge" class="img_speaker">
+      <img src="/assets/rome/speakers/hoverbear.jpg" alt="rustbridge" class="img_speaker">
       <img src="/assets/favicons/logo.svg" alt="RustFest Logo" class="frame">
     </div><div class="imgbox" data-frame="/assets/favicons/logo.svg">
-      <img src="/assets/rome/speakers/aturon.jpg" alt="rustbridge" class="img_speaker">
+      <img src="/assets/rome/speakers/yann.jpg" alt="rustbridge" class="img_speaker">
       <img src="/assets/favicons/logo.svg" alt="RustFest Logo" class="frame">
     </div>
 
@@ -179,26 +179,45 @@
   </div>
 
 
-<script>
-var data = [
-  ["nick.jpg","name", "@twitter", "title"],
-  ["aturon.jpg","Aaron Turon", "@aaron_turon", "Keynote Presentation — TBA"],
-  ["irr.png","Increasing Rust's Reach", "#RustReach", "Project Highlight — Ashley Williams · Alan Kavishe · Lee Baillie"],
-  ["olivia.jpg","RustBridge Workshop", "@dog_awoo", "with Olivia Hugger"],
-];
-var card = document.querySelector('.card:last-of-type');
+  <script>
 
-data.forEach(d => {
-  var nc = card.cloneNode(true);
-  nc.querySelector('img').src = '/assets/rome/speakers/'+d[0];
-  nc.querySelector('.speaker').textContent = d[1];
-  nc.querySelector('.twitter').textContent = d[2];
-  nc.querySelector('.title').textContent = d[3];
-  document.body.appendChild(nc);
-})
+    // for multiple speakers on a session build it manually, see EXAMPLE above
 
-card.style.display = "none";
-</script>
+    var data = [
+    ["nick.jpg","name", "@twitter", "title"],
+    ["aturon.jpg","Aaron Turon", "@aaron_turon", "Keynote Presentation — TBA"],
+    ["irr.png","Increasing Rust's Reach", "#RustReach", "Project Highlight — Ashley Williams · Alan Kavishe · Lee Baillie"],
+    ["olivia.jpg","RustBridge Workshop", "@dog_awoo", "with Olivia Hugger"],
+
+    // suggested format for talks
+    // ["speaker_pic.jpg","Session title", "@twitter_handle", "by Speaker Name"],
+    ["tshepang-lekhonkhobe.jpg","Behind the scenes of producing an executable", "@tshepang-dev", "by Tshepang Lekhonkhobe"],
+    ["matteo-bertini.jpg","Simple CRDT in Rust", "@naufraghi", "by Matteo Bertini"],
+    ["katharina-fey.jpg","Commandline Applications in Rust", "@spacekookie", "by Katharina Fey"],
+    ["pascal-hertleif.jpg","Declarative programming in Rust", "@killercup", "by Pascal Hertleif"],
+    ["ryan-levick.jpg","Oh Boy! Creating a Game Boy Emulator in Rust", "@itchyankles", "by Ryan Levick"],
+    ["yiming-jing.jpg","One Thousand Ways to Die in Rust FFI (and How to Survive)", "@__YimingJing", "by Yiming Jing"],
+    ["dns2utf8.png","Parallel programming", "@dns2utf8", "by Stefan Schindler"],
+
+    // todo
+    ["massimiliano-mantione.jpg","Fun with Rusty Robots", "@xxx", "by Massimiliano Mantione"],
+    ["adam-kelly.png","Rust, For Science!", "@xxx", "by Adam Kelly"],
+    ["igor-matuszewski.png","Caging the SpiderMonkey - Ensuring safe JS bindings in Servo", "@xxx", "by Igor Matuszewski"],
+
+    ];
+    var card = document.querySelector('.card:last-of-type');
+
+    data.forEach(d => {
+    var nc = card.cloneNode(true);
+    nc.querySelector('img').src = '/assets/rome/speakers/'+d[0];
+    nc.querySelector('.speaker').textContent = d[1];
+    nc.querySelector('.twitter').textContent = d[2];
+    nc.querySelector('.title').textContent = d[3];
+    document.body.appendChild(nc);
+    })
+
+    card.style.display = "none";
+  </script>
   </body>
 
 

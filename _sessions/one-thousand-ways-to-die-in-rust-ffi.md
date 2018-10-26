@@ -13,9 +13,9 @@ desc: >
 
 socialTwitterCardType: summary_large_image
 socialImageSrc: /assets/social/one-thousand-ways-to-die-in-rust-ffi.png
-description: TODO
+description: Efficient FFI bindings are a core features of Rust. We will discuss a taxonomy of common pitfalls in Rust FFI with real-world examples and review our approach to effectively avoid them.
 
 day: saturday
 
-public: false
+public: true
 ---

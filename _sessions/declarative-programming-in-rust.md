@@ -13,7 +13,7 @@ desc: >
 
 socialTwitterCardType: summary_large_image
 socialImageSrc: /assets/social/declarative-programming-in-rust.png
-description: TODO
+description: Declarative code is one of the secret ingredients in many successful code bases. Let's see how Rust helps, showing some examples and diving into ways to use it to your advantage.
 
 day: saturday
 

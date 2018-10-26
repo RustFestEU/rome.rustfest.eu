@@ -13,7 +13,7 @@ desc: >
 
 socialTwitterCardType: summary_large_image
 socialImageSrc: /assets/social/what-the-garbage-collection-does-not-do.png
-description: TODO
+description: This talk will focus on how the lack of a garbage collector in Rust is balanced by ownership, an alternative memory management.
 
 day: saturday
 
