@@ -9,7 +9,13 @@ speakers:
 
 title: Networking & Web
 desc: >
-  In this workshop we hold an open space for those attendees interested in the web or networking to come, share what they’ve been working on, ask for advice, or learn about new techniques. There is no set content or agenda, we’ll start the day by gathering a list of topics, and throughout the day anyone who wants to will have a chance to speak to them. If you’re interested in Tokio, Hyper, distributed systems, Gotham, Rocket, interacting with databases, or if you’re interested in trying out speaking in a small group, this workshop might be a good choice for you.
+"Join Yann (Founder, 1aim), Hoverbear (Engineer, PingCAP) and fellow attendees in an ad-hoc space to present and discuss your latest research and experiments in the fields of networking, radio, routing/infrastructure, chaos testing, service discovery, encoding, monitoring, instrumentation, and distributed computing.
+
+How do Tokio reactors work? What are the pitfalls of UTF-8? What are useful design patterns for transactional requests? How can we greater leverage futures? How can we ensure our system behaves as we expect? How can we feel comfortable destroying database nodes in production? How do IMAP and SMTP work anyways?
+
+You are encouraged to bring less than 15 minutes worth of content, a project, or a research paper you find interesting. All attendees will be invited to both ask for a topic to be covered, and present on any topic of interest to the group. Participation is voluntary, of course.
+
+Together, let's architect the future."
 
 socialTwitterCardType: summary_large_image
 socialImageSrc: /assets/social/networking-web.png
