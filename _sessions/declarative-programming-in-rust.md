@@ -17,5 +17,5 @@ description: Declarative code is one of the secret ingredients in many successfu
 
 day: saturday
 
-public: false
+public: true
 ---

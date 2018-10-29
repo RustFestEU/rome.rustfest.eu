@@ -63,9 +63,7 @@ igor-matuszewski:
   thumbnailUrl: igor-matuszewski.jpg
   links:
     - icon: github
-      link: https://github.com/xxx
-    - icon: twitter
-      link: https://twitter.com/xxx
+      link: https://github.com/Xanewok
   desc: |
     Primarily involved in Rust with IDE support and tooling (helps maintain RLS since mid-2017). Being a good Rustacean, he decided to use his bachelor's thesis group project as a good excuse to support the ecosystem work on Servo, where he managed to tame C++ dragons and JavaScript spider monkeys using nothing but the power of oxidation.
 
@@ -149,10 +147,8 @@ adam-kelly:
   name: Adam Kelly
   thumbnailUrl: adam-kelly.jpg
   links:
-    - icon: github
-      link: https://github.com/xxx
     - icon: twitter
-      link: https://twitter.com/xxx
+      link: https://twitter.com/adamisntdead
   desc: |
     I'm Adam, a student in Ireland who's into math, science and computers. I have been working on quantum computing with Python with a healthy amount of Rust every day.
 

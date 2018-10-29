@@ -17,5 +17,5 @@ description: Rust seems a perfect candidate for scientific computing, but why is
 
 day: saturday
 
-public: false
+public: true
 ---
