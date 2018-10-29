@@ -17,5 +17,5 @@ description: Robot Sumo fights? Raspberry PI, Beaglebone? Lego Mindstorm CPU? Co
 
 day: saturday
 
-public: false
+public: true
 ---

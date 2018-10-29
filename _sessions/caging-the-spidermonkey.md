@@ -17,5 +17,5 @@ description: This talk will focus on some of the challenges of integrating Spide
 
 day: saturday
 
-public: false
+public: true
 ---
