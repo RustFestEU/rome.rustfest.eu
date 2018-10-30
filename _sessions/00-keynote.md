@@ -2,6 +2,7 @@
 layout: session
 permalink: /sessions/:name
 type: talk
+start: "09:30"
 
 speakers:
 - aturon

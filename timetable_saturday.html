@@ -1,6 +1,6 @@
 <div class='schedule'>
   <section>
-    <h1 class="title">Saturday, 26th May</h1>
+    <h1 class="title">Saturday, 24th November</h1>
     <span style="margin-left: 3em; font-style: italic">aka "Talks, Talks, Talks"</span>
 
     <table cellspacing='0'>
@@ -12,21 +12,21 @@
         <td class="time">09<span>00</span></td>
         <td class="centered">Welcome & Sponsors</td>
       </tr>
-      {% assign talks_data = site.sessions | where: "day", "saturday" | sort: "start" %}
+      {% assign talks_data = site.sessions | where: "day", "saturday" | where: "public", "true" | sort: "start" %}
     {% for talk in talks_data %}
       {% if talk.type == 'break' %}
       <tr class="breaks">
         <td class="time">{{talk.start | split: ":" | join: "<span>" }}</span></td>
         <td class="centered">{{ talk.title }}</td>
       </tr>
-      {% elsif talk.special == null or talk.special == 'Keynote' %}
+      {% else %}
       <tr>
         <td class="time"><a href="/sessions/{{talk.slug}}">
           {{talk.start | split: ":" | join: "<span>" }}</span>
         </a></td>
         <td><a href="/sessions/{{talk.slug}}">
           <div class='talk_info'>
-            {% if talk.special %}<span class="badge">Keynote</span>{% endif %}
+            {% if talk.special %}<span class="badge">{{ talk.special }}</span>{% endif %}
             {% if talk.type == 'workshop' %}<i>Workshop:</i>{% endif %}
             {{talk.title}}<br>
             {% if talk.room %}Room: <b>{{talk.room}}</b>{% endif %}
@@ -35,7 +35,7 @@
             {% for person in talk.speakers %}
             <div class='speaker'>
               {% assign speaker = site.data.speakers[person] %}
-              <img src="/assets/paris/speakers/{{speaker.thumbnailUrl}}" />
+              <img src="/assets/rome/speakers/{{speaker.thumbnailUrl}}" />
               {{speaker.name}}
             </div>
             {% endfor %}
@@ -45,11 +45,15 @@
       {% endif %}
     {% endfor %}
       <tr class="breaks">
-        <td class="time">18<span>00</span></td>
+        <td class="time">17<span>40</span></td>
         <td class="centered">Closing Announcements</td>
       </tr>
       <tr class="breaks">
-        <td class="time">18<span>30</span></td>
+        <td class="time">17<span>55</span></td>
+        <td class="centered">Family photo</td>
+      </tr>
+      <tr class="breaks">
+        <td class="time">18<span>00</span></td>
         <td class="centered">Closing Venue</td>
       </tr>
     </table>

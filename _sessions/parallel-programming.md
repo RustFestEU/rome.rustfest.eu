@@ -8,7 +8,7 @@ speakers:
 
 title: Parallel Programming
 desc: >
-  Multiprocessor programming is a big mystery to many people. This is an introduction workshop for beginners explaining different modes on execution and then use channels to develop a multi-plattform, parallel thumbnail generator. Using ThreadPool and rayon.
+    Multiprocessor programming is a big mystery to many people. This is an introduction workshop for beginners explaining different modes on execution and then use channels to develop a multi-plattform, parallel thumbnail generator. Using ThreadPool and rayon.
 
 
 socialTwitterCardType: summary_large_image

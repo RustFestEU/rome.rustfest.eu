@@ -2,6 +2,7 @@
 layout: session
 permalink: /sessions/:name
 type: talk
+start: "16:00"
 
 speakers:
 - yiming-jing
