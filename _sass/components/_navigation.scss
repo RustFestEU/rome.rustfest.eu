@@ -64,6 +64,7 @@ header.navigation {
 
         @include wide-device {
           padding: 0;
+          margin: 0.5em;
         }
       }
     }
