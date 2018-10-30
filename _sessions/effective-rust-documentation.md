@@ -18,5 +18,5 @@ description: Let's spread the word how to improve all our crates' docs. Because 
 
 day: sunday
 room: ~
-public: false
+public: true
 ---

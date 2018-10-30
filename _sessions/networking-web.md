@@ -26,5 +26,5 @@ description: An open space for participant lead networking & web topics. Bring y
 
 day: sunday
 room: ~
-public: false
+public: true
 ---
