@@ -72,9 +72,9 @@ massimiliano-mantione:
   thumbnailUrl: massimiliano-mantione.jpg
   links:
     - icon: github
-      link: https://github.com/xxx
+      link: https://github.com/massimiliano-mantione
     - icon: twitter
-      link: https://twitter.com/xxx
+      link: https://twitter.com/M_a_s_s_i
   desc: |
     Software Engineer at heart, mostly JIT compiler engineer (Mono, Unity3D, V8 in Google), now deploying Virtual Reality worlds on the web in Hyperfair, and Robot enthusiast as a hobby. I am using this passion for robotics as an excuse to learn Rust better, putting it into any robot I program.
 
