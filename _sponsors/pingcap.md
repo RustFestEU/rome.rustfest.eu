@@ -4,7 +4,7 @@
 # The full name of the sponsor.
 name: "PingCAP"
 # Whatever link they ask for.
-link: "http://pingcap.com"
+link: "https://pingcap.com"
 # If they show on the frontpage.
 featured: false
 # One of:
