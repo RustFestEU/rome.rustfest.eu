@@ -2,6 +2,7 @@
 layout: session
 permalink: /sessions/:name
 type: talk
+start: "12:00"
 
 speakers:
 - pascal-hertleif

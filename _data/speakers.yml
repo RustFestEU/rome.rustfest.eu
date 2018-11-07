@@ -201,23 +201,23 @@ yann:
 hoverbear:
   name: Hoverbear
   desc: "An explorer of distributed systems. Engineer at PingCAP."
+  thumbnailUrl: hoverbear.jpg
   links:
     - icon: website
       link: http://hoverbear.org
     - icon: website
       link: http://pingcap.com
-thumbnailUrl: hoverbear.png
 
 dns2utf8:
   name: Stefan Schindler
   thumbnailUrl: dns2utf8.png
   links:
+    - icon: website
+      link: https://estada.ch
     - icon: twitter
       link: https://twitter.com/dns2utf8
     - icon: github
       link: https://github.com/dns2utf8
-    - icon: website
-      link: http://estada.ch
   desc:
 
 llogiq:

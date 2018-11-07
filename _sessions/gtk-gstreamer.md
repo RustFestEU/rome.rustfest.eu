@@ -22,5 +22,5 @@ description: Let's go through the basics of using the GTK+ UI toolkit and the GS
 
 day: sunday
 room: ~
-public: false
+public: true
 ---
