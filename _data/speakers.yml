@@ -258,4 +258,26 @@ slomo:
     Sebastian Dröge (slomo) is a Free Software developer and one of the GStreamer maintainers and core developers. He has been involved with the project since more than 10 years now. He also contributes to various other Free Software projects, like Debian, Rust, GNOME and WebKit. While finishing his master's degree in computer sciences at the University of Paderborn in Germany, he started working as a contractor for GStreamer and related technologies. Sebastian is one of the founders of Centricular, a company providing consultancy services, where he's working from his new home in Greece on improving GStreamer and the Free Software ecosystem in general.
     Apart from multimedia related topics, Sebastian has an interest in digital signal processing, programming languages, machine learning, network protocols and distributed systems.
 
+maciej-hirsz:
+  name: Maciej Hirsz
+  thumbnailUrl: maciej-hirsz.jpg
+  links:
+    - icon: github
+      link: https://github.com/maciejhirsz
+    - icon: twitter
+      link: https://twitter.com/MaciejHirsz
+  desc: |
+    Maciej has worked as a developer for over a decade and has been working at Parity Technologies since the beginning of 2017. In his free time he likes to build parsers and compilers.
+
+jack-fransham:
+  name: Jack Fransham
+  thumbnailUrl: jack-fransham.jpg
+  links:
+    - icon: github
+      link: https://github.com/Vurich
+    - icon: twitter
+      link: https://twitter.com/meatwithdreams
+  desc: |
+    Jack has been programming professionally since the age of 16, and over the past 6 years has had a wide range of jobs all over western Europe - finally ending up in Berlin working on blockchain tech. He got into the Rust community early, having discovered it through a passing interest in cryptography. Since then he has written most of his personal projects (and, when he can get away with it, his professional projects) using the language, and has contributed to the community by answering questions on Reddit and IRC and writing articles about using Rust. He is currently working on a Rust implementation of the libp2p networking library.
+
 ---
