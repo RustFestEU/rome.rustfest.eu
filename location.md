@@ -62,11 +62,28 @@ It is 5 Minutes walking from "Roma Termini" station.
 
 Public transport in Rome is managed by Atac. You can find information about [tickets online](http://www.atac.roma.it/page.asp?p=228&i=14&r=2875)
 
-{% comment %}
+
 <a name="impl-days-rome"></a>
 <section markdown="1">
 ### impl days (Nov, 26th and 27th 2018)
-TODO
-{% endcomment %}
+
+Impl Days will be hosted at [Eurostars Roma Aeterna](https://www.eurostarshotels.co.uk/eurostars-roma-aeterna.html) `Via Casilina,125 / Piazza del Pigneto 9a Rome 00176 Italy`.
+
+The location can be reached:
+
+By bus from "Roma Termini" station with lines:
+- 50
+- 105
+
+By train from "Roma Termini" station with line:
+- RMG
+
+By underground with line Metro C, Pigneto stop
+
+
+For more information you can read [about `impl Days`](/about_impl_days/).
+
+
+<iframe width="640" height="480" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=12.519178390502931%2C41.88662391169233%2C12.52647399902344%2C41.89151193335739&amp;layer=mapnik&amp;marker=41.8890679692768%2C12.522826194763184" style="border: 1px solid black"></iframe>
 
 </section>
