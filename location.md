@@ -67,7 +67,7 @@ Public transport in Rome is managed by Atac. You can find information about [tic
 <section markdown="1">
 ### impl days (Nov, 26th and 27th 2018)
 
-Impl Days will be hosted at [Eurostars Roma Aeterna](https://www.eurostarshotels.co.uk/eurostars-roma-aeterna.html) `Via Casilina,125 / Piazza del Pigneto 9a Rome 00176 Italy`.
+impl Days will be hosted at [Eurostars Roma Aeterna](https://www.eurostarshotels.co.uk/eurostars-roma-aeterna.html) `Via Casilina,125 / Piazza del Pigneto 9a Rome 00176 Italy`.
 
 The location can be reached:
 
