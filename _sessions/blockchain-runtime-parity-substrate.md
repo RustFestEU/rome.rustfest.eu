@@ -16,5 +16,5 @@ description: A workshop that will take a somewhat intermediate Rustacean audienc
 
 day: sunday
 room: ~
-public: true
+public: false
 ---
