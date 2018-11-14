@@ -210,14 +210,17 @@ hoverbear:
 
 dns2utf8:
   name: Stefan Schindler
+  desc: "I organize the meetup Rust Zürichsee and play with parallel programs."
   thumbnailUrl: dns2utf8.png
   links:
     - icon: website
       link: https://estada.ch
-    - icon: twitter
-      link: https://twitter.com/dns2utf8
+    - icon: gitlab
+      link: https://gitlab.com/dns2utf8
     - icon: github
       link: https://github.com/dns2utf8
+    - icon: twitter
+      link: https://twitter.com/dns2utf8
   desc:
 
 llogiq:
