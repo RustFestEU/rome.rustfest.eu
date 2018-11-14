@@ -6,7 +6,7 @@ name: "1aim"
 # Whatever link they ask for.
 link: "https://1aim.com"
 # If they show on the frontpage.
-featured: false
+featured: true
 # One of:
 #   - sponsor
 #   - partner
