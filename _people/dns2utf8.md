@@ -8,6 +8,6 @@ links:
   - icon: github
     link: https://github.com/dns2utf8
   - icon: website
-    link: http://estada.ch
+    link: https://estada.ch
 priority: 99
 ---
