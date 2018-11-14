@@ -28,7 +28,9 @@ TODO: add sponsors
 
 "impl Days" is the sibling event of RustFest&lt;Rome&gt;. "impl Days" is a two full-day event for Rust contributors to
 collaborate in an active programming session. They will take place on the two days following the RustFest talks and
-workshops, on {{site.dates.impl_days_no_br}} {{site.dates.year}}.
+workshops, on {{site.dates.impl_days_no_br}} {{site.dates.year}} at [Eurostars Roma Aeterna](https://www.eurostarshotels.co.uk/eurostars-roma-aeterna.html), Via Casilina, 125 / Piazza del Pigneto 9a Rome 00176 Italy.
+
+For directions you can check the [location](/location#impl-days-nov-26th-and-27th-2018) page.
 
 ## History
 
@@ -48,11 +50,10 @@ href="https://twitter.com/simukis/status/1001122476011802626" target="_blank">a 
 
 ## `impl Days` Rome
 
-{% comment %}
-TODO: add info about {{site.location.impl_days}} and {{site.location.impl_days_overflow}}
-{% endcomment %}
+impl Days will be hosted at [Eurostars Roma Aeterna](https://www.eurostarshotels.co.uk/eurostars-roma-aeterna.html), Via Casilina, 125 / Piazza del Pigneto 9a Rome 00176 Italy.
 
-The event location(s) will be announced at a later stage.
+For directions you can check the [location](/location#impl-days-nov-26th-and-27th-2018) page.
+
 
 "impl Days" are a great chance to work directly with other Rust enthusiasts. The Rust project is supported by volunteers
 across the globe, and while we often rely on github comments and IRC channels for communication, face-to-face
