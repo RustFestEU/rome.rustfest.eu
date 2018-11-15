@@ -4,7 +4,8 @@ permalink: /sessions/:name
 type: workshop
 
 speakers:
-- jack-fransham
+- david-palm
+- robin-freyler
 
 title: Fastware
 desc: >

@@ -283,4 +283,25 @@ jack-fransham:
   desc: |
     Jack has been programming professionally since the age of 16, and over the past 6 years has had a wide range of jobs all over western Europe - finally ending up in Berlin working on blockchain tech. He got into the Rust community early, having discovered it through a passing interest in cryptography. Since then he has written most of his personal projects (and, when he can get away with it, his professional projects) using the language, and has contributed to the community by answering questions on Reddit and IRC and writing articles about using Rust. He is currently working on a Rust implementation of the libp2p networking library.
 
+david-palm:
+  name: David Palm
+  thumbnailUrl: david-palm.jpg
+  links:
+    - icon: github
+      link: https://github.com/xxx
+    - icon: twitter
+      link: https://twitter.com/xxx
+  desc: |
+    David has worked as a developer for 20+ years in a multitude of languages all over europe and the US. After a few years of being bored with Go, he jumped the gun and made a bet on Rust a few years ago. Currently working at Parity Technologies. In his free time he climbs rocks and changes diapers. Speaks Italian!
+
+robin-freyler:
+  name: Robin Freyler
+  thumbnailUrl: robin-freyler.jpg
+  links:
+    - icon: github
+      link: https://github.com/xxx
+    - icon: twitter
+      link: https://twitter.com/xxx
+  desc: |
+    Robin Freyler has been developing for over a decade, with almost four of those years spent diving into Rust. He is passionate about studying programming languages, compilers, and formal methods. Before joining Parity Technologies as a Core Developer, he worked on a tool for verification of C code. He is always eager to learn more about Rust and hack on his hobby projects.
 ---
