@@ -31,38 +31,54 @@ title: Sponsoring
     <p>
       RustFest wouldn't be possible without the generous support of these fine folks:
     </p>
-      <ul class="primary">
-        {% for sponsor in platinum_sponsors %}
-          <li><a href="{{sponsor.link}}" title="{{sponsor.name}}"><img src="/assets/sponsors/{{sponsor.slug}}.{% if sponsor.png %}png{% else %}svg{% endif %}" /></a></li>
-          {% if sponsor.desc %}
-          <li><p>{{sponsor.desc}}</p></li>
-          {% endif %}
-        {% endfor %}
-        {% for sponsor in gold_sponsors %}
-          <li><a href="{{sponsor.link}}" title="{{sponsor.name}}"><img src="/assets/sponsors/{{sponsor.slug}}.{% if sponsor.png %}png{% else %}svg{% endif %}" /></a></li>
-          {% if sponsor.desc %}
-          <li><p>{{sponsor.desc}}</p></li>
-          {% endif %}
-        {% endfor %}
-        {% for sponsor in silver_sponsors %}
-          <li><a href="{{sponsor.link}}" title="{{sponsor.name}}"><img src="/assets/sponsors/{{sponsor.slug}}.{% if sponsor.png %}png{% else %}svg{% endif %}" /></a></li>
-          {% if sponsor.desc %}
-          <li><p>{{sponsor.desc}}</p></li>
-          {% endif %}
-        {% endfor %}
-        {% for sponsor in bronze_sponsors %}
-          <li><a href="{{sponsor.link}}" title="{{sponsor.name}}"><img src="/assets/sponsors/{{sponsor.slug}}.{% if sponsor.png %}png{% else %}svg{% endif %}" /></a></li>
-          {% if sponsor.desc %}
-          <li><p>{{sponsor.desc}}</p></li>
-          {% endif %}
-        {% endfor %}
-        {% for sponsor in travel_sponsors %}
-          <li><a href="{{sponsor.link}}" title="{{sponsor.name}}"><img src="/assets/sponsors/{{sponsor.slug}}.{% if sponsor.png %}png{% else %}svg{% endif %}" /></a></li>
-          {% if sponsor.desc %}
-          <li><p>{{sponsor.desc}}</p></li>
-          {% endif %}
-        {% endfor %}
-      </ul>
+
+    {% if gold_sponsors[0] %}
+    <h2>Gold Sponsor{% if gold_sponsors[1] %}s{% endif %}</h2>
+    <ul class="gold">
+    {% for sponsor in gold_sponsors %}
+      <li><a href="{{sponsor.link}}" title="{{sponsor.name}}"><img src="/assets/sponsors/{{sponsor.slug}}.{% if sponsor.png %}png{% else %}svg{% endif %}" /></a></li>
+      {% if sponsor.desc %}
+      <li><p>{{sponsor.desc}}</p></li>
+      {% endif %}
+    {% endfor %}
+    </ul>
+    {% endif %}
+
+    {% if silver_sponsors[0] %}
+    <h2>Silver Sponsor{% if silver_sponsors[1] %}s{% endif %}</h2>
+    <ul class="silver">
+    {% for sponsor in silver_sponsors %}
+      <li><a href="{{sponsor.link}}" title="{{sponsor.name}}"><img src="/assets/sponsors/{{sponsor.slug}}.{% if sponsor.png %}png{% else %}svg{% endif %}" /></a></li>
+      {% if sponsor.desc %}
+      <li><p>{{sponsor.desc}}</p></li>
+      {% endif %}
+    {% endfor %}
+    </ul>
+    {% endif %}
+
+    {% if bronze_sponsors[0] %}
+    <h2>Bronze Sponsor{% if bronze_sponsors[1] %}s{% endif %}</h2>
+    <ul class="bronze">
+    {% for sponsor in bronze_sponsors %}
+      <li><a href="{{sponsor.link}}" title="{{sponsor.name}}"><img src="/assets/sponsors/{{sponsor.slug}}.{% if sponsor.png %}png{% else %}svg{% endif %}" /></a></li>
+      {% if sponsor.desc %}
+      <li><p>{{sponsor.desc}}</p></li>
+      {% endif %}
+    {% endfor %}
+    </ul>
+    {% endif %}
+
+    {% if travel_sponsors[0] %}
+    <h2>Travel Sponsor{% if travel_sponsors[1] %}s{% endif %}</h2>
+    <ul class="travel">
+    {% for sponsor in travel_sponsors %}
+      <li><a href="{{sponsor.link}}" title="{{sponsor.name}}"><img src="/assets/sponsors/{{sponsor.slug}}.{% if sponsor.png %}png{% else %}svg{% endif %}" /></a></li>
+      {% if sponsor.desc %}
+      <li><p>{{sponsor.desc}}</p></li>
+      {% endif %}
+    {% endfor %}
+    </ul>
+    {% endif %}
   </section>
 
   <section>
