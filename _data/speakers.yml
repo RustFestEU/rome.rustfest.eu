@@ -288,9 +288,7 @@ david-palm:
   thumbnailUrl: david-palm.jpg
   links:
     - icon: github
-      link: https://github.com/xxx
-    - icon: twitter
-      link: https://twitter.com/xxx
+      link: https://github.com/dvdplm
   desc: |
     David has worked as a developer for 20+ years in a multitude of languages all over europe and the US. After a few years of being bored with Go, he jumped the gun and made a bet on Rust a few years ago. Currently working at Parity Technologies. In his free time he climbs rocks and changes diapers. Speaks Italian!
 
@@ -299,9 +297,7 @@ robin-freyler:
   thumbnailUrl: robin-freyler.jpg
   links:
     - icon: github
-      link: https://github.com/xxx
-    - icon: twitter
-      link: https://twitter.com/xxx
+      link: https://github.com/robbepop
   desc: |
     Robin Freyler has been developing for over a decade, with almost four of those years spent diving into Rust. He is passionate about studying programming languages, compilers, and formal methods. Before joining Parity Technologies as a Core Developer, he worked on a tool for verification of C code. He is always eager to learn more about Rust and hack on his hobby projects.
 ---
