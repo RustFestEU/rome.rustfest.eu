@@ -5,8 +5,12 @@
 
     <table cellspacing='0'>
       <tr class="breaks">
-        <td class="time">10<span>00</span></td>
+        <td class="time">09<span>00</span></td>
         <td class="centered">Rooms open</td>
+      </tr>
+      <tr class="breaks">
+        <td class="time">09<span>30</span></td>
+        <td class="centered">Breakfast</td>
       </tr>
       {% assign talks_data = site.sessions | where: "day", "sunday" | where: "public", "true" | sort: "start" %}
     {% for talk in talks_data %}
@@ -40,6 +44,10 @@
       </tr>
       {% endif %}
     {% endfor %}
+      <tr class="breaks">
+        <td class="time">15<span>00</span></td>
+        <td class="centered">Rooms close</td>
+      </tr>
      </table>
   </section>
 </div>
