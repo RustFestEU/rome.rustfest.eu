@@ -23,16 +23,28 @@
     @include justify-content(space-around);
     @include flex-wrap(wrap);
 
-    &.primary {
-      > li {
-        width: 45%;
-        font-size: 0.8em;
-        img {
-          width: 100%;
-          max-height: unset;
-          max-width: unset;
-        }
-
+    &.gold {
+      img {
+        max-height: 25vw;
+        max-width: 25vw;
+      }
+    }
+    &.silver {
+      img {
+        max-height: 20vw;
+        max-width: 20vw;
+      }
+    }
+    &.bronze {
+      img {
+        max-height: 15vh;
+        max-width: 15vw;
+      }
+    }
+    &.travel {
+      img {
+        max-height: 15vh;
+        max-width: 15vw;
       }
     }
     > li {

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="Layer_1"
+   data-name="Layer 1"
+   viewBox="0 0 230.93 333.19"
+   version="1.1"
+   sodipodi:docname="1aim.svg"
+   width="230.92999"
+   height="333.19"
+   inkscape:version="0.92.2 2405546, 2018-03-11">
+  <metadata
+     id="metadata12">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>1aim-text-white</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1868"
+     inkscape:window-height="2050"
+     id="namedview10"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="0.66054635"
+     inkscape:cx="118.48779"
+     inkscape:cy="164.05"
+     inkscape:window-x="1930"
+     inkscape:window-y="20"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="Layer_1" />
+  <defs
+     id="defs4">
+    <style
+       id="style2">.cls-1{fill:#fbfbfb;}</style>
+  </defs>
+  <title
+     id="title6">1aim-text-white</title>
+  <path
+     id="monochromatic-black"
+     class="cls-1"
+     d="m 230.93,284.82 v 48.35 h -10.55 v -29.28 l -14.57,17.24 -14.66,-17.11 v 29.08 l -10.43,0.07 v -48.36 h 8.66 l 16.4,20.69 16.37,-20.68 z m -95.54,48.35 h 10.4 v -48.36 h -10.4 z m -28.86,0 H 95.34 l -3.2,-7.8 H 71.39 l -3.11,7.78 H 57.04 l 20.11,-48.34 h 9.43 z m -18.48,-17.8 -6.26,-15.94 -6.34,15.95 z m -76.2,-29.63 a 12.19,12.19 0 0 1 -1.41,4.22 6.3,6.3 0 0 1 -2.06,2.06 c -1.4,0.88 -4.94,1.5 -8.38,1.72 v 8.67 h 10.89 v 30.78 h 10 V 283.75 H 12.15 Z M 102.55,2.79 c -3.83,38 -55.26,42 -55.26,42 l 0.23,39.07 29.39,20.44 V 63.56 c 0,0 52.24,-3.06 57.68,-44.16 L 172.15,16.33 138.67,0 Z m -3.61,99.71 31.35,-3.15 -1,139.42 -30.54,-22.6 z"
+     inkscape:connector-curvature="0"
+     style="fill:#fbfbfb" />
+</svg>
