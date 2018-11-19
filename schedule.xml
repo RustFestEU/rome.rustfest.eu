@@ -27,7 +27,7 @@ layout: null
         <room>Auditorium</room>
         <slug>rustfest-rome-{{id}}-{{talk.slug}}</slug>
         <recording>
-          <license>Creative Commons Attribution-NonCommercial 3.0</license>
+          <license>Creative Commons Attribution 4.0</license>
           <optout>false</optout>
         </recording>
         <title>{{talk.title}}</title>
