@@ -3,6 +3,7 @@ layout: session
 permalink: /sessions/:name
 type: talk
 start: "15:10"
+duration: "0:30"
 
 speakers:
 - tshepang-lekhonkhobe

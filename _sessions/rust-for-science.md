@@ -3,6 +3,7 @@ layout: session
 permalink: /sessions/:name
 type: talk
 start: "11:40"
+duration: "0:15"
 
 speakers:
 - adam-kelly

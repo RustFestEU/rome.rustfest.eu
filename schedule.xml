@@ -1,0 +1,56 @@
+---
+layout: null
+---
+<schedule>
+  <version>1.0</version>
+  <conference>
+    <title>RustFest Rome 2018</title>
+    <acronym>rustfest-rome</acronym>
+    <days>1</days>
+    <start>2018-11-24</start>
+    <end>2018-11-24</end>
+    <timeslot_duration>0:05</timeslot_duration>
+  </conference>
+  <day index="1" date="2018-11-24" start="2018-11-24T09:30:00" end="2018-11-24T17:40:00">
+    <room name="Auditorium">
+      {%- assign talks_data = site.sessions | where: "day", "saturday" | where: "public", "true" | sort: "start" -%}
+      {%- assign id = 0 -%}
+      {%- assign speaker_id = 0 -%}
+
+      {%- for talk in talks_data -%}
+      {% if talk.type == 'talk' %}
+        {%- assign id = id | plus: 1 -%}
+      <event guid="{{talk.slug}}" id="{{ id }}">
+        <date>2018-11-24T{{talk.start}}:00</date>
+        <start>{{talk.start}}</start>
+        <duration>{{talk.duration}}</duration>
+        <room>Auditorium</room>
+        <slug>rustfest-rome-{{id}}-{{talk.slug}}</slug>
+        <recording>
+          <license>Creative Commons Attribution-NonCommercial 3.0</license>
+          <optout>false</optout>
+        </recording>
+        <title>{{talk.title}}</title>
+        <language>en</language>
+        <subtitle />
+        <track />
+        <type />
+        <abstract>{{talk.desc | escape}}</abstract>
+        <description />
+        <logo />
+        <persons>
+          {%- for person in talk.speakers -%}
+          {%- assign speaker_id = speaker_id | plus: 1 -%}
+          {%- assign speaker = site.data.speakers[person] -%}
+          <person id="{{ speaker_id }}">{{speaker.name}}</person>
+          {%- endfor -%}
+        </persons>
+        <links />
+        <attachments />
+        <video_download_url />
+      </event>
+      {% endif %}
+      {%- endfor -%}
+    </room>
+  </day>
+</schedule>

@@ -3,6 +3,7 @@ layout: session
 permalink: /sessions/:name
 type: talk
 start: "14:35"
+duration: "0:30"
 
 speakers:
 - massimiliano-mantione

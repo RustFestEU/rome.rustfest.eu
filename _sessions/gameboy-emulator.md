@@ -3,6 +3,7 @@ layout: session
 permalink: /sessions/:name
 type: talk
 start: "11:05"
+duration: "0:30"
 
 speakers:
 - ryan-levick

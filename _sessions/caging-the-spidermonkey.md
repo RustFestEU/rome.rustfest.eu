@@ -3,6 +3,7 @@ layout: session
 permalink: /sessions/:name
 type: talk
 start: "10:15"
+duration: "0:30"
 
 speakers:
 - igor-matuszewski
