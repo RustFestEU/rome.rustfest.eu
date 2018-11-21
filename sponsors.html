@@ -97,7 +97,7 @@ title: Sponsoring
   <section>
     <h2>Media Partner</h2>
     <hr />
-      <ul>
+      <ul class="media">
         {% for sponsor in media %}
           <li><a href="{{sponsor.link}}" title="{{sponsor.name}}"><img src="/assets/sponsors/{{sponsor.slug}}.{% if sponsor.png %}png{% else %}svg{% endif %}" /></a></li>
           {% if sponsor.desc %}

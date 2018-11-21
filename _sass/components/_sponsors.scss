@@ -47,6 +47,12 @@
         max-width: 15vw;
       }
     }
+    &.media {
+      img {
+        max-height: 15vh;
+        max-width: 15vw;
+      }
+    }
     > li {
       margin: 1em;
     }
