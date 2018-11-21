@@ -30,6 +30,7 @@ socialImageSrc: /assets/social/writing-parsers-and-cutting-corners.png
 description: A workshop for the curious and the passionate, willing to explore and learn how to write a parser. At the end of the journey, attendees will also know a bit more about Rust memory management.
 
 day: sunday
-room: ~
+room: Centro Congressi Frentani, Sala Latini
+roomUrl: https://goo.gl/maps/MbRAPXyHANt
 public: true
 ---

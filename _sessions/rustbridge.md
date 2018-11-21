@@ -21,5 +21,6 @@ description: RustBridge is an all-day workshop focused on getting underrepresent
 
 day: sunday
 room: Centro Congressi Frentani, Sala Accademia
+roomUrl: https://goo.gl/maps/MbRAPXyHANt
 public: true
 ---

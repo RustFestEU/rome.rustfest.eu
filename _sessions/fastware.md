@@ -16,6 +16,7 @@ socialImageSrc: /assets/social/fastware.png
 description: A workshop focusing on how to optimize a Rust application, without resorting to _unsafe { ... }_ code.
 
 day: sunday
-room: ~
+room: Centro Congressi Frentani, Sala Etruschi
+roomUrl: https://goo.gl/maps/MbRAPXyHANt
 public: true
 ---

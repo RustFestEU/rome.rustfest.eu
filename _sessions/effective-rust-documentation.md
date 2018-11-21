@@ -17,6 +17,7 @@ socialImageSrc: /assets/social/effective-rust-documentation.png
 description: Let's spread the word how to improve all our crates' docs. Because they deserve it.
 
 day: sunday
-room: ~
+room: BW Plus Hotel Universo, Sale Anna
+roomUrl: https://goo.gl/maps/XSzDsH9oEtK2
 public: true
 ---

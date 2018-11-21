@@ -19,6 +19,7 @@ socialImageSrc: /assets/social/parallel-programing.png
 description: Multiprocessor programming is a big mystery to many people. This introductory workshop explains how to build a multi-platform, parallel thumbnail generator in Rust.
 
 day: sunday
-room: ~
+room: BW Plus Hotel Universo, Sale Olga
+roomUrl: https://goo.gl/maps/XSzDsH9oEtK2
 public: true
 ---
