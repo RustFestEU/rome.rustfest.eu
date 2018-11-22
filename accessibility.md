@@ -4,6 +4,16 @@ permalink: /accessibility/
 title: Accessibility Statement
 ---
 
+<h2>Need Help?</h2>
+
+<address>
+Mail: <a href="mailto:team@rustfest.eu">team@rustfest.eu</a>
+<br>
+Phone: +49 231 5896255
+</address>
+
+---
+
 RustFest is an inclusive conference and as such strives to be accessible to everyone. This includes:
 
 * Offering significantly discounted tickets for concession holders.
@@ -17,7 +27,7 @@ RustFest is an inclusive conference and as such strives to be accessible to ever
 * Providing quiet spaces for people with sensory issues, or simply in need of a break.
 * Access to non-gendered toilets.
 * Serving a wide range of food and special requests.
-* An all-around help hotline during the time of the conference.
+* An all-around help hotline during the time of the conference: +49 231 5896255
 
 We are currently clarifying the situation around guide and service animals with the venue.
 
