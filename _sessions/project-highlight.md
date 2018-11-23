@@ -6,7 +6,6 @@ start: "16:55"
 duration: "0:45"
 
 speakers:
-- ashley
 - alan
 - lee
 
