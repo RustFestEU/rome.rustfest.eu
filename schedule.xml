@@ -20,7 +20,7 @@ layout: null
       {%- for talk in talks_data -%}
       {% if talk.type == 'talk' %}
         {%- assign id = id | plus: 1 -%}
-      <event guid="{{talk.slug}}" id="{{ id }}">
+      <event guid="{{talk.guid}}" id="{{ id }}">
         <date>2018-11-24T{{talk.start}}:00</date>
         <start>{{talk.start}}</start>
         <duration>{{talk.duration}}</duration>

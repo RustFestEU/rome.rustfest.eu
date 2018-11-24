@@ -20,5 +20,6 @@ description: Let's explore the steps leading to a working executable, from high-
 day: saturday
 
 public: true
+guid: "d640c62b-d4c1-4d31-bc97-63e5747f1424"
 
 ---

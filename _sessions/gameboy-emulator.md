@@ -20,4 +20,5 @@ description: Join Ryan's journey with Rust into the world of old gaming machines
 day: saturday
 
 public: true
+guid: "f8962974-0a5b-4529-b08c-7622588450e7"
 ---

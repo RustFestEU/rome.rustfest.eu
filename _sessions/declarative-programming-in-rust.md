@@ -20,4 +20,5 @@ description: Declarative code is one of the secret ingredients in many successfu
 day: saturday
 
 public: true
+guid: "249fbe57-2fe1-4a79-98f3-e4ff160dfb2b"
 ---

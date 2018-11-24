@@ -20,4 +20,5 @@ description: A conflict-free replicated data type (CRDT) is a data structure tha
 day: saturday
 
 public: true
+guid: "d86c7136-8c6b-416b-b2fe-94480b2e2ba0"
 ---

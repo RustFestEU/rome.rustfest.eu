@@ -31,4 +31,5 @@ description: "Sequoia: A New OpenPGP Implementation in Rust"
 day: saturday
 
 public: true
+guid: "bc8c2220-646b-4f45-86d9-5b2dd07f920f"
 ---

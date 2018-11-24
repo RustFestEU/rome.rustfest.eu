@@ -20,4 +20,5 @@ description: Rust seems a perfect candidate for scientific computing, but why is
 day: saturday
 
 public: true
+guid: "963d743f-195b-4462-9047-7bb6b5e68fc8"
 ---

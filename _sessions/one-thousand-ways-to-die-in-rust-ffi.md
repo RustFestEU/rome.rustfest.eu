@@ -20,4 +20,5 @@ description: Efficient FFI bindings are a core features of Rust. We will discuss
 day: saturday
 
 public: true
+guid: "a29e2610-de67-4c7a-a6a8-ad552db8aa25"
 ---

@@ -20,4 +20,5 @@ description: Robot Sumo fights? Raspberry PI, Beaglebone? Lego Mindstorm CPU? Co
 day: saturday
 
 public: true
+guid: "54c4d9c4-312c-4ed6-b642-be999b4bf74f"
 ---

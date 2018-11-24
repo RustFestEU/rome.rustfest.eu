@@ -20,4 +20,5 @@ description: This talk will focus on some of the challenges of integrating Spide
 day: saturday
 
 public: true
+guid: "3b2b2a8d-2ac3-4977-820e-34e65a349b7a"
 ---

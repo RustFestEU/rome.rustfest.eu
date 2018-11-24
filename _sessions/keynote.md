@@ -20,4 +20,5 @@ description: Keynote presentation by Rust project lead Aaron Turon
 day: saturday
 
 public: true
+guid: "d834bcae-84cd-467f-b4b0-6e337d8edad8"
 ---
