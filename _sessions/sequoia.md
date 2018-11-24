@@ -6,6 +6,7 @@ start: "14:00"
 duration: "0:30"
 
 speakers:
+- justus-winter
 - neal-walfield
 
 title: "Sequoia: A New OpenPGP Implementation in Rust"

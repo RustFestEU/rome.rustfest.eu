@@ -302,12 +302,18 @@ robin-freyler:
     Robin Freyler has been developing for over a decade, with almost four of those years spent diving into Rust. He is passionate about studying programming languages, compilers, and formal methods. Before joining Parity Technologies as a Core Developer, he worked on a tool for verification of C code. He is always eager to learn more about Rust and hack on his hobby projects.
 
 neal-walfield:
-  name:  Neal Walfield
+  name: Neal Walfield
   thumbnailUrl: neal-walfield.jpg
   links:
     - icon: twitter
       link: https://twitter.com/nwalfield
   desc: |
     Prior to starting work on Sequoia in the fall of 2017, Neal was employed for 2.5 years by g10code to work on GnuPG. In addition to help maintain GnuPG, he implemented a new trust model, TOFU, which is based on ssh's host key checking mechanism. Neal also spent time evangelizing GnuPG by presenting his talk "An Advanced Introduction to GnuPG" across Europe and North America. Currently, Neal is employed by PEP to develop Sequoia.
+
+justus-winter:
+  name: Justus Winter
+  thumbnailUrl: no-photo.jpg
+  desc: |
+     Justus started to work on GnuPG in 2015 to support maintenance and development in all areas. He was full time employed by g10code from 2015 to 2017. He is a founding member of the GnuPG e.V.
 
 ---
