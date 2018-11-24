@@ -2,6 +2,8 @@
 layout: default
 permalink: /livetime/
 title: "'RustFest livetime"
+socialTwitterCardType: "summary_large_image"
+socialImageSrc: "/assets/social/rfrome-livestream-social.png"
 ---
 
 <div class='popout'>
@@ -23,4 +25,3 @@ title: "'RustFest livetime"
 <p>Videos will be released soon after the conference.</p>
 
 <p>Thank you to <a href="https://www.rrbone.net/">RRBone</a> and <a href="https://c3voc.de/">the C3VOC</a> for making this happen!</p>
-
