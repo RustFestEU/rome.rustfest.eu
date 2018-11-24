@@ -14,6 +14,8 @@ title: "'RustFest livetime"
 <iframe src="https://streaming.media.ccc.de/rustfestrome2018/embed/auditorium/dash/native" width="1024" height="576" frameborder="none" allowfullscreen="allowfullscreen" seamless="seamless" scrolling="no"></iframe>
 </div>
 
+<p>This stream is also available <a href="https://www.youtube.com/watch?v=ITzxX0cAXQs">on YouTube</a>.</p>
+
 <p>If you enjoy the stream, consider a <a href="https://ti.to/asquera-event-ug/rustfest-rome-2018/">Diversity Fund donation</a>. They will be used to fund people coming to the next conference!</p>
 
 <p>Please be aware that the livestream is a best effort - with much love, but without guarantees. You can notify us at <a href="https://twitter.com/rustfest">@rustfest</a> if there are any issues.</p>
