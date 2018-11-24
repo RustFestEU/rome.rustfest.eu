@@ -19,5 +19,5 @@ description: This talk will review some of the progress that was made, and show 
 
 day: saturday
 
-public: true
+public: false
 ---
