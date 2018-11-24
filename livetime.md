@@ -11,7 +11,7 @@ title: "'RustFest livetime"
 </div>
 
 <div style="text-align: center;">
-<iframe src="https://streaming.media.ccc.de/rustfest2018rome/embed/auditorium/dash/native" width="1024" height="576" frameborder="none" allowfullscreen="allowfullscreen" seamless="seamless" scrolling="no"></iframe>
+<iframe src="https://streaming.media.ccc.de/rustfestrome2018/embed/auditorium/dash/native" width="1024" height="576" frameborder="none" allowfullscreen="allowfullscreen" seamless="seamless" scrolling="no"></iframe>
 </div>
 
 <p>If you enjoy the stream, consider a <a href="https://ti.to/asquera-event-ug/rustfest-rome-2018/">Diversity Fund donation</a>. They will be used to fund people coming to the next conference!</p>
