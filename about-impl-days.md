@@ -32,6 +32,9 @@ workshops, on {{site.dates.impl_days_no_br}} {{site.dates.year}} at [Eurostars R
 
 For directions you can check the [location](/location#impl-days-nov-26th-and-27th-2018) page.
 
+We open doors at **09:00** in the morning.  
+We will wind down at **17:00**.
+
 ## History
 
 Born as a hacking and development experiment in the early RustFest editions, the "impl Days" have established as a
@@ -75,9 +78,9 @@ TODO: add coordinator, schedule
 
 The schedule will be announced closer to the event, when details are finalized.
 
-The general idea is to arrive at the location around 9:00 AM, then there will be a headcount and some time spent getting
+The general idea is to arrive at the location around **9:00 AM**, then there will be a headcount and some time spent getting
 to know each other, finally identify tasks for participants to collaborate on.  Each of the two days will start
-winding down at around 5 PM. All participants must leave the venue premises each day by around 6 PM. Exact time tables
+winding down at around **5 PM**. All participants must leave the venue premises each day by around 6 PM. Exact time tables
 will be announced later. Further details will be finalized at a later stage.
 
 * People can freely work on their own with headphones on or form little groups.
