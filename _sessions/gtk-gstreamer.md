@@ -21,7 +21,7 @@ socialImageSrc: /assets/social/gtk-gstreamer.png
 description: Let's go through the basics of using the GTK+ UI toolkit and the GStreamer multimedia framework from Rust.
 
 day: sunday
-room: BW Plus Hotel Universo, Sale Maria
+room: BW Plus Hotel Universo, Sale Ludovica
 roomUrl: https://goo.gl/maps/XSzDsH9oEtK2
 public: true
 ---

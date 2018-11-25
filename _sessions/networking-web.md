@@ -25,7 +25,7 @@ socialImageSrc: /assets/social/networking-web.png
 description: An open space for participant lead networking & web topics. Bring your own topic or questions!
 
 day: sunday
-room: BW Plus Hotel Universo, Sale Ludovica
+room: BW Plus Hotel Universo, Sale Maria
 roomUrl: https://goo.gl/maps/XSzDsH9oEtK2
 public: true
 ---
