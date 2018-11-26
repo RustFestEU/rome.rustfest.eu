@@ -35,6 +35,10 @@ For directions you can check the [location](/location#impl-days-nov-26th-and-27t
 We open doors at **09:00** in the morning.  
 We will wind down at **17:00**.
 
+## What to hack on
+
+For updated project information, check our [live document](https://hackmd.io/qhbDUJY3TgG6uLayfcHkrQ).
+
 ## History
 
 Born as a hacking and development experiment in the early RustFest editions, the "impl Days" have established as a
