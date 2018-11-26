@@ -2,8 +2,10 @@
   link: https://blog.rustfest.eu/
 - title: Schedule
   link: /schedule/
-- title: Workshops
-  link: /workshops/
+#- title: Workshops
+#  link: /workshops/
+- title: Impl Days
+  link: /about_impl_days/
 - title: Location
   link: /location/
 - title: Past Events
