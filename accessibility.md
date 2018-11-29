@@ -8,8 +8,6 @@ title: Accessibility Statement
 
 <address>
 Mail: <a href="mailto:team@rustfest.eu">team@rustfest.eu</a>
-<br>
-Phone: +49 231 5896255
 </address>
 
 ---
