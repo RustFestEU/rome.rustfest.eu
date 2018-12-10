@@ -76,6 +76,16 @@ bodytags: with-hero
   </section>
 </div>
 
+<div class='videoplaylist'>
+  <section>
+    <h1>Video Recordings</h1>
+    <div class="embed ratio-16-9">
+      <iframe src="https://www.youtube.com/embed/videoseries?list=PL85XCvVPmGQjEE4ICTuXGLXUDZQUuanJy" frameborder="0" allowfullscreen></iframe>
+    </div>
+  </section>
+  <br />
+</div>
+
 {% assign platinum_sponsors = site.sponsors | where: "level", "platinum" %}
 {% assign gold_sponsors = site.sponsors | where: "level", "gold" %}
 {% assign silver_sponsors = site.sponsors | where: "level", "silver" %}
@@ -83,11 +93,7 @@ bodytags: with-hero
 
 <div class='popout sponsors'>
   <section>
-    <div style="text-align: center">
-      <a class="button primary" href="/about_impl_days/">
-        More about the impl Days
-      </a>
-    </div>
+    <h1>Sponsors</h1>
 
     {% if platinum_sponsors[0] %}
     <h2>Platinum Sponsor{% if platinum_sponsors[1] %}s{% endif %}</h2>
